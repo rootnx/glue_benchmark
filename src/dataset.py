@@ -10,12 +10,18 @@ class SST2_Dataset(Dataset):
         lines = f.readlines()
         f.close()
         for (i, line) in enumerate(lines):
-            line = line.strip().split(" ")
             if i == 0 and set_type in ["train","dev"]:
                 continue
-            guid = "%s-%s" % (set_type, i)
-            text_a = " ".join(line[1:])
-            label = line[0]
+            if set_type == "test":
+                line = line.strip().split(" ")
+                guid = "%s-%s" % (set_type, i)
+                text_a = " ".join(line[1:])
+                label = int(line[0])
+            else:
+                line = line.strip().split("\t")
+                guid = "%s-%s" % (set_type, i)
+                text_a = line[0]
+                label = int(line[1])
             examples.append(InputExample(guid=guid, text_a=text_a, text_b=None, label=label))
         return examples
 

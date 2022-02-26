@@ -3,9 +3,10 @@ import torch.nn as nn
 import transformers
 from transformers import BertConfig, BertModel
 
-class BertForSSTB:
+class BertForSST2(nn.Module):
     def __init__(self, config):
-        self.bert = BertModel.from_pretrained(config.bert_name)
+        super().__init__()
+        self.bert = BertModel.from_pretrained(config.model_name)
         self.dropout = nn.Dropout(config.dropout)
         self.classifier = nn.Linear(config.hidden_size, config.num_labels)
     
