@@ -8,14 +8,12 @@
 做到 任务，数据，模型 互相解耦
 
 训练和测试分开
-train.py 写trainer
-eval.py 写测试函数
-run.py 训练和测试
 
+run.py 主入口
 src/ 放 dataset，models，utils
-dataset 数据的dataset
-models 模型类的定义
-utils 提供一些辅助工具，比如时间戳，日志
+dataset.py 数据的dataset
+models.py 模型类的定义
+utils.py 提供一些辅助工具，比如时间戳，日志
 
 ## 添加新任务流程
 1. 根据数据处理模块，在 src/dataset.py
