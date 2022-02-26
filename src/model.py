@@ -6,7 +6,7 @@ from transformers import BertConfig, BertModel
 class BertForSST2(nn.Module):
     def __init__(self, config):
         super().__init__()
-        self.bert = BertModel.from_pretrained(config.model_name)
+        self.bert = BertModel.from_pretrained(config.pretrained_model_name)
         self.dropout = nn.Dropout(config.dropout)
         self.classifier = nn.Linear(config.hidden_size, config.num_labels)
     
@@ -28,3 +28,7 @@ class BertForSST2(nn.Module):
         logits = self.classifier(pooled_output)
         return logits
 
+
+name2model = {
+    "BertForSST2":BertForSST2
+}

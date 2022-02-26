@@ -35,3 +35,7 @@ class SST2_Dataset(Dataset):
     def __getitem__(self, index):
         return self.dataset[index]
         
+
+name2dataset = {
+    "SSTB": SST2_Dataset,
+}

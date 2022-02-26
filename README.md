@@ -5,21 +5,24 @@
 3. 加入skip-connection
 
 代码结构
-训练和测试分开
-train.py 写trainer
-eval.py 写测试函数
-run.py 训练和测试
+任务相关的所有功能都封装在Trainer类中
+Trainer中包含 train() eval() infer() run() 函数
 
 src/ 放 dataset，models，utils
 dataset 数据的dataset
 models 模型类的定义
-utils 提供一些辅助工具
-    时间戳
+utils 提供一些辅助工具，比如时间戳，日志
 
-### 跑多次实验
-log保存路径 由shell脚本指定 默认在models路径下
-模型保存路径 由shell脚本指定
-实验label 由shell脚本指定
+## 添加新任务流程
+1. 根据数据处理模块，在 src/dataset.py
+2. 增加任务对应的trainer ，在src/trainer.py，记得注册name2trainer
+3. 新增实验脚本，在 scripts/
+
+## 实验
+实验脚本在 scripts/ 目录
 
 
-## 构建情感分类任务 SST-2
+### 构建情感分类任务 SST-2
+```
+bash scripts/run_experiment_SST2.sh
+```

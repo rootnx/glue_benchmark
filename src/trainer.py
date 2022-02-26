@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 
 from src.model import BertForSST2
 from src.dataset import SST2_Dataset
-from src.configs import SST2_Config
+from src.model import name2model
 
 
 class Trainer_SST2:
@@ -20,7 +20,7 @@ class Trainer_SST2:
     def collate_fn(self, batch):
         return ([s.text_a for s in batch], [s.label for s in batch])
 
-    def test(self, model, dataloader, tokenizer):
+    def eval(self, model, dataloader, tokenizer):
         model.eval()
         softmax = nn.Softmax(dim=1)
         predict_labels = []
@@ -40,24 +40,16 @@ class Trainer_SST2:
 
         # acc
         return accuracy_score(predict_labels, test_labels)
+    
+    def infer():
+        raise NotImplementedError
 
-    def train(self, config=None):
-        config = SST2_Config()
+    def train(self,model,train_dataloader,tokenizer,dev_dataloader=None):
+        config = self.config
         max_epochs = config.max_epochs
-        test_steps = config.test_steps
+        eval_steps = config.eval_steps
         accu_steps = config.accu_steps
-        data_dir = config.data_dir
-        batch_size = config.batch_size
-        train_dataloader = DataLoader(SST2_Dataset(
-            data_dir, "train"), batch_size=batch_size, collate_fn=self.collate_fn, shuffle=True)
-        test_dataloader = DataLoader(SST2_Dataset(
-            data_dir, "test"), batch_size=batch_size, collate_fn=self.collate_fn)
-        dev_dataloader = DataLoader(SST2_Dataset(
-            data_dir, "dev"), batch_size=batch_size, collate_fn=self.collate_fn)
 
-        # model
-        model = BertForSST2(config).to(self.device)
-        tokenizer = BertTokenizer.from_pretrained(config.model_name)
         ce = nn.CrossEntropyLoss()
         optimizer = AdamW(model.parameters(), lr=config.lr)
         total_steps = int(len(train_dataloader)/accu_steps)
@@ -80,13 +72,48 @@ class Trainer_SST2:
                 loss = ce(logits, labels)
                 all_loss = loss if all_loss is None else loss+all_loss
                 if i % accu_steps == 0:
-                    print("step", i, "loss", all_loss)
+                    print("step", i, "loss", all_loss.cpu().item())
                     all_loss.backward()
                     optimizer.step()
                     scheduler.step()
                     optimizer.zero_grad()
                     all_loss=None
-                if i % test_steps == 0:
-                    acc = self.test(model, test_dataloader,tokenizer)
+                if i % eval_steps == 0:
+                    acc = self.eval(model, dev_dataloader,tokenizer)
                     model.train()
                     print(f"step:{i} acc:{acc}")
+
+
+    def run(self, config=None):
+        if config is None:
+            config = self.config
+
+        data_dir = config.data_dir
+        batch_size = config.batch_size
+        if config.do_train:
+            train_dataloader = DataLoader(SST2_Dataset(
+                data_dir, "train"), batch_size=batch_size, collate_fn=self.collate_fn, shuffle=True)
+        if config.do_eval:
+            dev_dataloader = DataLoader(SST2_Dataset(
+                data_dir, "dev"), batch_size=batch_size, collate_fn=self.collate_fn)
+        if config.do_test:
+            test_dataloader = DataLoader(SST2_Dataset(
+                data_dir, "test"), batch_size=batch_size, collate_fn=self.collate_fn)
+
+        # model
+        Model = name2model[config.model_name_or_path]
+        model = Model(config).to(self.device)
+        tokenizer = BertTokenizer.from_pretrained(config.pretrained_model_name)
+
+        if config.do_train:
+            self.train(model,train_dataloader,tokenizer,dev_dataloader)
+        if config.do_test:
+            self.eval()
+        if config.do_infer():
+            self.infer()
+
+
+# 任务名到trainer的映射
+name2trainer = {
+    "SST2":Trainer_SST2,
+}
