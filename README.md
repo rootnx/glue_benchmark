@@ -1,10 +1,12 @@
-# prompt-skip-connection
-目标：构建GLUE评测合集，并支持prompt
+# Glue Benchmark
+目标：构建GLUE评测合集
 1. 先构建一个任务, 完成训练和测试代码
 2. 加入prompt tuning，跑实验看效果
 3. 加入skip-connection
 
-代码结构
+## 代码结构
+做到 任务，数据，模型 互相解耦
+
 训练和测试分开
 train.py 写trainer
 eval.py 写测试函数
