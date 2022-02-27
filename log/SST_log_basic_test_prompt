@@ -1,0 +1,1414 @@
+2022/02/27 19:00:13 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:00:14 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:00:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:00:15 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:02:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:02:16 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:02:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:02:18 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:03:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:03:52 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:03:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:03:53 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:06:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:06:57 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:06:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:06:58 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:09:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:09:19 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:09:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:09:20 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:16:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:16:16 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:16:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:16:18 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:17:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:17:17 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:17:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:17:18 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:20:40 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:20:41 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:20:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:20:42 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:24:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:25:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:25:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:25:02 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:27:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:27:56 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:27:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:27:57 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:29:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:17 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:29:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:19 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:29:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:33 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:29:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:34 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:29:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:36 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:29:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:37 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:29:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:38 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:29:38 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:39 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:29:39 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:29:40 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:29:40 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:30:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:15 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:30:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:17 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:30:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:24 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:30:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:25 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:30:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:26 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:30:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:27 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:30:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:28 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:30:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:30 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:30:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:30:31 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:30:31 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:35:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:24 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:35:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:25 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:35:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:33 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:35:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:34 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:35:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:35 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:35:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:36 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:35:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:37 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:35:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:38 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:35:38 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:35:39 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:35:40 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:36:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:17 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:36:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:18 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:36:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:25 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:36:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:26 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:36:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:27 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:36:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:28 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:36:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:30 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:36:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:31 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:36:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:36:32 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:36:32 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:38:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:03 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:38:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:05 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:38:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:12 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:38:12 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:13 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:38:13 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:14 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:38:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:15 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:38:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:17 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:38:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:18 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:38:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:38:19 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:38:19 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:41:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:41:48 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:41:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:41:49 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:41:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:41:57 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:41:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:41:58 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:41:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:41:59 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:41:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:42:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:42:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:42:01 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:42:01 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:42:02 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:42:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:42:03 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:42:03 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:42:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:43:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:02 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:43:08 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:09 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:43:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:10 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:43:10 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:11 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:43:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:12 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:43:12 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:13 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:43:13 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:14 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:43:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:43:15 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:43:16 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:51:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:51:50 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:51:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:51:51 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:51:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:51:58 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:51:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:51:59 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:51:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:52:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:52:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:52:01 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:52:01 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:52:02 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:52:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:52:03 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:52:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:52:04 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:52:05 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:53:22 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:23 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:53:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:24 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:53:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:31 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:53:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:32 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:53:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:33 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:53:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:35 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:53:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:36 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:53:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:37 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:53:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:53:38 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:53:38 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 19:58:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:35 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:58:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:36 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 19:58:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:42 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 19:58:42 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:44 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 19:58:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:45 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 19:58:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:46 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 19:58:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:47 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 19:58:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:48 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 19:58:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 19:58:49 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 19:58:49 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 20:00:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:18 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:00:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:19 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 20:00:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:26 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 20:00:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:27 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 20:00:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:28 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 20:00:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:29 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 20:00:29 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:31 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 20:00:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:32 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 20:00:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:00:33 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:00:33 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 20:01:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:02:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:01 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 20:02:07 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:08 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 20:02:08 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:09 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 20:02:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:10 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 20:02:10 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:11 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 20:02:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:12 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 20:02:12 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:13 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 20:02:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:02:15 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:02:15 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 20:03:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:46 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:03:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:47 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 20:03:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:55 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 20:03:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:56 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 20:03:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:57 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 20:03:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:58 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 20:03:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:03:59 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 20:03:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 20:04:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:01 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:04:02 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 20:04:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:45 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:04:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:46 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2022/02/27 20:04:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:54 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "GET /api/models/bert-base-uncased HTTP/1.1" 200 1094
+2022/02/27 20:04:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:55 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/vocab.txt HTTP/1.1" 200 0
+2022/02/27 20:04:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:56 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2022/02/27 20:04:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:57 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/special_tokens_map.json HTTP/1.1" 404 0
+2022/02/27 20:04:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:58 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2022/02/27 20:04:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:04:59 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2022/02/27 20:04:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): huggingface.co:443
+2022/02/27 20:05:00 - DEBUG - urllib3.connectionpool - https://huggingface.co:443 "HEAD /bert-base-uncased/resolve/main/config.json HTTP/1.1" 200 0
+2022/02/27 20:05:00 - INFO - src.utils - Namespace(accu_steps=2, batch_size=32, data_dir='data/original/SST-2', debug_mode=False, do_eval=True, do_infer=False, do_test=False, do_train=True, dropout=0.2, eval_steps=100, hidden_size=768, load_checkpoint=False, log_dir='log/SST_log_basic_test_prompt', lr=3e-05, max_epochs=10, model_name_or_path='BertPromptTuningCLS', n_tokens=4, num_labels=2, output_dir='result/', pretrained_model_name='bert-base-uncased', seed=10, tag='basic_test_prompt', task_name='SST2_PT', tokenizer_name=None)
+2022/02/27 20:05:00 - INFO - src.utils - epoch:0 step:0 loss:0.7067463994026184
+2022/02/27 20:05:02 - INFO - src.utils - epoch:0 step:0 acc:0.5206422018348624
+2022/02/27 20:05:02 - INFO - src.utils - epoch:0 step:2 loss:1.396008014678955
+2022/02/27 20:05:02 - INFO - src.utils - epoch:0 step:4 loss:1.4047503471374512
+2022/02/27 20:05:03 - INFO - src.utils - epoch:0 step:6 loss:1.3932065963745117
+2022/02/27 20:05:03 - INFO - src.utils - epoch:0 step:8 loss:1.3670239448547363
+2022/02/27 20:05:03 - INFO - src.utils - epoch:0 step:10 loss:1.4149519205093384
+2022/02/27 20:05:03 - INFO - src.utils - epoch:0 step:12 loss:1.3822886943817139
+2022/02/27 20:05:03 - INFO - src.utils - epoch:0 step:14 loss:1.3893485069274902
+2022/02/27 20:05:03 - INFO - src.utils - epoch:0 step:16 loss:1.3793683052062988
+2022/02/27 20:05:04 - INFO - src.utils - epoch:0 step:18 loss:1.3482939004898071
+2022/02/27 20:05:04 - INFO - src.utils - epoch:0 step:20 loss:1.4137818813323975
+2022/02/27 20:05:04 - INFO - src.utils - epoch:0 step:22 loss:1.431708812713623
+2022/02/27 20:05:04 - INFO - src.utils - epoch:0 step:24 loss:1.3821319341659546
+2022/02/27 20:05:04 - INFO - src.utils - epoch:0 step:26 loss:1.3547714948654175
+2022/02/27 20:05:04 - INFO - src.utils - epoch:0 step:28 loss:1.4291954040527344
+2022/02/27 20:05:05 - INFO - src.utils - epoch:0 step:30 loss:1.355323076248169
+2022/02/27 20:05:05 - INFO - src.utils - epoch:0 step:32 loss:1.4081249237060547
+2022/02/27 20:05:05 - INFO - src.utils - epoch:0 step:34 loss:1.3820148706436157
+2022/02/27 20:05:05 - INFO - src.utils - epoch:0 step:36 loss:1.405494213104248
+2022/02/27 20:05:05 - INFO - src.utils - epoch:0 step:38 loss:1.4501447677612305
+2022/02/27 20:05:05 - INFO - src.utils - epoch:0 step:40 loss:1.3875939846038818
+2022/02/27 20:05:06 - INFO - src.utils - epoch:0 step:42 loss:1.4067965745925903
+2022/02/27 20:05:06 - INFO - src.utils - epoch:0 step:44 loss:1.4116606712341309
+2022/02/27 20:05:06 - INFO - src.utils - epoch:0 step:46 loss:1.4025688171386719
+2022/02/27 20:05:06 - INFO - src.utils - epoch:0 step:48 loss:1.4020938873291016
+2022/02/27 20:05:06 - INFO - src.utils - epoch:0 step:50 loss:1.3589510917663574
+2022/02/27 20:05:06 - INFO - src.utils - epoch:0 step:52 loss:1.3636492490768433
+2022/02/27 20:05:07 - INFO - src.utils - epoch:0 step:54 loss:1.357431411743164
+2022/02/27 20:05:07 - INFO - src.utils - epoch:0 step:56 loss:1.348373293876648
+2022/02/27 20:05:07 - INFO - src.utils - epoch:0 step:58 loss:1.3811702728271484
+2022/02/27 20:05:07 - INFO - src.utils - epoch:0 step:60 loss:1.4066808223724365
+2022/02/27 20:05:07 - INFO - src.utils - epoch:0 step:62 loss:1.3930939435958862
+2022/02/27 20:05:07 - INFO - src.utils - epoch:0 step:64 loss:1.3638629913330078
+2022/02/27 20:05:08 - INFO - src.utils - epoch:0 step:66 loss:1.386608362197876
+2022/02/27 20:05:08 - INFO - src.utils - epoch:0 step:68 loss:1.348803162574768
+2022/02/27 20:05:08 - INFO - src.utils - epoch:0 step:70 loss:1.4277994632720947
+2022/02/27 20:05:08 - INFO - src.utils - epoch:0 step:72 loss:1.3569964170455933
+2022/02/27 20:05:08 - INFO - src.utils - epoch:0 step:74 loss:1.378232717514038
+2022/02/27 20:05:08 - INFO - src.utils - epoch:0 step:76 loss:1.4190826416015625
+2022/02/27 20:05:09 - INFO - src.utils - epoch:0 step:78 loss:1.3548482656478882
+2022/02/27 20:05:09 - INFO - src.utils - epoch:0 step:80 loss:1.3563051223754883
+2022/02/27 20:05:09 - INFO - src.utils - epoch:0 step:82 loss:1.4041845798492432
+2022/02/27 20:05:09 - INFO - src.utils - epoch:0 step:84 loss:1.35084867477417
+2022/02/27 20:05:09 - INFO - src.utils - epoch:0 step:86 loss:1.365319848060608
+2022/02/27 20:05:10 - INFO - src.utils - epoch:0 step:88 loss:1.3681354522705078
+2022/02/27 20:05:10 - INFO - src.utils - epoch:0 step:90 loss:1.4081865549087524
+2022/02/27 20:05:10 - INFO - src.utils - epoch:0 step:92 loss:1.3539955615997314
+2022/02/27 20:05:10 - INFO - src.utils - epoch:0 step:94 loss:1.3800642490386963
+2022/02/27 20:05:10 - INFO - src.utils - epoch:0 step:96 loss:1.380521535873413
+2022/02/27 20:05:10 - INFO - src.utils - epoch:0 step:98 loss:1.3679537773132324
+2022/02/27 20:05:11 - INFO - src.utils - epoch:0 step:100 loss:1.39028000831604
+2022/02/27 20:05:12 - INFO - src.utils - epoch:0 step:100 acc:0.5905963302752294
+2022/02/27 20:05:12 - INFO - src.utils - epoch:0 step:102 loss:1.3512674570083618
+2022/02/27 20:05:12 - INFO - src.utils - epoch:0 step:104 loss:1.4054162502288818
+2022/02/27 20:05:12 - INFO - src.utils - epoch:0 step:106 loss:1.3457965850830078
+2022/02/27 20:05:13 - INFO - src.utils - epoch:0 step:108 loss:1.314520239830017
+2022/02/27 20:05:13 - INFO - src.utils - epoch:0 step:110 loss:1.4111933708190918
+2022/02/27 20:05:13 - INFO - src.utils - epoch:0 step:112 loss:1.2953770160675049
+2022/02/27 20:05:13 - INFO - src.utils - epoch:0 step:114 loss:1.3921595811843872
+2022/02/27 20:05:13 - INFO - src.utils - epoch:0 step:116 loss:1.3364348411560059
+2022/02/27 20:05:13 - INFO - src.utils - epoch:0 step:118 loss:1.3712444305419922
+2022/02/27 20:05:14 - INFO - src.utils - epoch:0 step:120 loss:1.3341360092163086
+2022/02/27 20:05:14 - INFO - src.utils - epoch:0 step:122 loss:1.3794775009155273
+2022/02/27 20:05:14 - INFO - src.utils - epoch:0 step:124 loss:1.3539022207260132
+2022/02/27 20:05:14 - INFO - src.utils - epoch:0 step:126 loss:1.3628966808319092
+2022/02/27 20:05:14 - INFO - src.utils - epoch:0 step:128 loss:1.406950831413269
+2022/02/27 20:05:14 - INFO - src.utils - epoch:0 step:130 loss:1.4018843173980713
+2022/02/27 20:05:15 - INFO - src.utils - epoch:0 step:132 loss:1.3432600498199463
+2022/02/27 20:05:15 - INFO - src.utils - epoch:0 step:134 loss:1.3905669450759888
+2022/02/27 20:05:15 - INFO - src.utils - epoch:0 step:136 loss:1.3848388195037842
+2022/02/27 20:05:15 - INFO - src.utils - epoch:0 step:138 loss:1.3818538188934326
+2022/02/27 20:05:15 - INFO - src.utils - epoch:0 step:140 loss:1.3710439205169678
+2022/02/27 20:05:15 - INFO - src.utils - epoch:0 step:142 loss:1.412882685661316
+2022/02/27 20:05:16 - INFO - src.utils - epoch:0 step:144 loss:1.324129343032837
+2022/02/27 20:05:16 - INFO - src.utils - epoch:0 step:146 loss:1.3775365352630615
+2022/02/27 20:05:16 - INFO - src.utils - epoch:0 step:148 loss:1.3795089721679688
+2022/02/27 20:05:16 - INFO - src.utils - epoch:0 step:150 loss:1.4098182916641235
+2022/02/27 20:05:16 - INFO - src.utils - epoch:0 step:152 loss:1.344679832458496
+2022/02/27 20:05:16 - INFO - src.utils - epoch:0 step:154 loss:1.3605575561523438
+2022/02/27 20:05:17 - INFO - src.utils - epoch:0 step:156 loss:1.3899908065795898
+2022/02/27 20:05:17 - INFO - src.utils - epoch:0 step:158 loss:1.3893153667449951
+2022/02/27 20:05:17 - INFO - src.utils - epoch:0 step:160 loss:1.302281141281128
+2022/02/27 20:05:17 - INFO - src.utils - epoch:0 step:162 loss:1.349755048751831
+2022/02/27 20:05:17 - INFO - src.utils - epoch:0 step:164 loss:1.3813482522964478
+2022/02/27 20:05:18 - INFO - src.utils - epoch:0 step:166 loss:1.3674328327178955
+2022/02/27 20:05:18 - INFO - src.utils - epoch:0 step:168 loss:1.3422558307647705
+2022/02/27 20:05:18 - INFO - src.utils - epoch:0 step:170 loss:1.372844934463501
+2022/02/27 20:05:18 - INFO - src.utils - epoch:0 step:172 loss:1.3236513137817383
+2022/02/27 20:05:18 - INFO - src.utils - epoch:0 step:174 loss:1.410464882850647
+2022/02/27 20:05:19 - INFO - src.utils - epoch:0 step:176 loss:1.3419132232666016
+2022/02/27 20:05:19 - INFO - src.utils - epoch:0 step:178 loss:1.4154090881347656
+2022/02/27 20:05:19 - INFO - src.utils - epoch:0 step:180 loss:1.367645025253296
+2022/02/27 20:05:19 - INFO - src.utils - epoch:0 step:182 loss:1.3764828443527222
+2022/02/27 20:05:19 - INFO - src.utils - epoch:0 step:184 loss:1.3728305101394653
+2022/02/27 20:05:20 - INFO - src.utils - epoch:0 step:186 loss:1.374311923980713
+2022/02/27 20:05:20 - INFO - src.utils - epoch:0 step:188 loss:1.339127779006958
+2022/02/27 20:05:20 - INFO - src.utils - epoch:0 step:190 loss:1.3776586055755615
+2022/02/27 20:05:20 - INFO - src.utils - epoch:0 step:192 loss:1.380183219909668
+2022/02/27 20:05:20 - INFO - src.utils - epoch:0 step:194 loss:1.3442960977554321
+2022/02/27 20:05:21 - INFO - src.utils - epoch:0 step:196 loss:1.341425895690918
+2022/02/27 20:05:21 - INFO - src.utils - epoch:0 step:198 loss:1.400385856628418
+2022/02/27 20:05:21 - INFO - src.utils - epoch:0 step:200 loss:1.3998572826385498
+2022/02/27 20:05:22 - INFO - src.utils - epoch:0 step:200 acc:0.6158256880733946
+2022/02/27 20:05:23 - INFO - src.utils - epoch:0 step:202 loss:1.3359776735305786
+2022/02/27 20:05:23 - INFO - src.utils - epoch:0 step:204 loss:1.416156530380249
+2022/02/27 20:05:23 - INFO - src.utils - epoch:0 step:206 loss:1.348548173904419
+2022/02/27 20:05:23 - INFO - src.utils - epoch:0 step:208 loss:1.3563106060028076
+2022/02/27 20:05:23 - INFO - src.utils - epoch:0 step:210 loss:1.3912657499313354
+2022/02/27 20:05:24 - INFO - src.utils - epoch:0 step:212 loss:1.3645851612091064
+2022/02/27 20:05:24 - INFO - src.utils - epoch:0 step:214 loss:1.3835538625717163
+2022/02/27 20:05:24 - INFO - src.utils - epoch:0 step:216 loss:1.354210615158081
+2022/02/27 20:05:24 - INFO - src.utils - epoch:1 step:218 loss:1.3637146949768066
+2022/02/27 20:05:24 - INFO - src.utils - epoch:1 step:220 loss:1.3934731483459473
+2022/02/27 20:05:24 - INFO - src.utils - epoch:1 step:222 loss:1.3944652080535889
+2022/02/27 20:05:25 - INFO - src.utils - epoch:1 step:224 loss:1.3662049770355225
+2022/02/27 20:05:25 - INFO - src.utils - epoch:1 step:226 loss:1.416429042816162
+2022/02/27 20:05:25 - INFO - src.utils - epoch:1 step:228 loss:1.3428208827972412
+2022/02/27 20:05:25 - INFO - src.utils - epoch:1 step:230 loss:1.387486457824707
+2022/02/27 20:05:25 - INFO - src.utils - epoch:1 step:232 loss:1.360417366027832
+2022/02/27 20:05:25 - INFO - src.utils - epoch:1 step:234 loss:1.3753399848937988
+2022/02/27 20:05:26 - INFO - src.utils - epoch:1 step:236 loss:1.3915237188339233
+2022/02/27 20:05:26 - INFO - src.utils - epoch:1 step:238 loss:1.418666958808899
+2022/02/27 20:05:26 - INFO - src.utils - epoch:1 step:240 loss:1.3838932514190674
+2022/02/27 20:05:26 - INFO - src.utils - epoch:1 step:242 loss:1.372405767440796
+2022/02/27 20:05:26 - INFO - src.utils - epoch:1 step:244 loss:1.3538877964019775
+2022/02/27 20:05:26 - INFO - src.utils - epoch:1 step:246 loss:1.3966913223266602
+2022/02/27 20:05:27 - INFO - src.utils - epoch:1 step:248 loss:1.3167338371276855
+2022/02/27 20:05:27 - INFO - src.utils - epoch:1 step:250 loss:1.3312053680419922
+2022/02/27 20:05:27 - INFO - src.utils - epoch:1 step:252 loss:1.3543310165405273
+2022/02/27 20:05:27 - INFO - src.utils - epoch:1 step:254 loss:1.336989402770996
+2022/02/27 20:05:27 - INFO - src.utils - epoch:1 step:256 loss:1.369075059890747
+2022/02/27 20:05:27 - INFO - src.utils - epoch:1 step:258 loss:1.3423221111297607
+2022/02/27 20:05:28 - INFO - src.utils - epoch:1 step:260 loss:1.3947209119796753
+2022/02/27 20:05:28 - INFO - src.utils - epoch:1 step:262 loss:1.423209309577942
+2022/02/27 20:05:28 - INFO - src.utils - epoch:1 step:264 loss:1.3803200721740723
+2022/02/27 20:05:28 - INFO - src.utils - epoch:1 step:266 loss:1.3442723751068115
+2022/02/27 20:05:28 - INFO - src.utils - epoch:1 step:268 loss:1.382798194885254
+2022/02/27 20:05:28 - INFO - src.utils - epoch:1 step:270 loss:1.377193808555603
+2022/02/27 20:05:29 - INFO - src.utils - epoch:1 step:272 loss:1.382042646408081
+2022/02/27 20:05:29 - INFO - src.utils - epoch:1 step:274 loss:1.3784968852996826
+2022/02/27 20:05:29 - INFO - src.utils - epoch:1 step:276 loss:1.378700613975525
+2022/02/27 20:05:29 - INFO - src.utils - epoch:1 step:278 loss:1.3847038745880127
+2022/02/27 20:05:29 - INFO - src.utils - epoch:1 step:280 loss:1.3772594928741455
+2022/02/27 20:05:30 - INFO - src.utils - epoch:1 step:282 loss:1.3575133085250854
+2022/02/27 20:05:30 - INFO - src.utils - epoch:1 step:284 loss:1.3645870685577393
+2022/02/27 20:05:30 - INFO - src.utils - epoch:1 step:286 loss:1.3671307563781738
+2022/02/27 20:05:30 - INFO - src.utils - epoch:1 step:288 loss:1.3492780923843384
+2022/02/27 20:05:30 - INFO - src.utils - epoch:1 step:290 loss:1.3654029369354248
+2022/02/27 20:05:31 - INFO - src.utils - epoch:1 step:292 loss:1.4273467063903809
+2022/02/27 20:05:31 - INFO - src.utils - epoch:1 step:294 loss:1.3766608238220215
+2022/02/27 20:05:31 - INFO - src.utils - epoch:1 step:296 loss:1.3223333358764648
+2022/02/27 20:05:31 - INFO - src.utils - epoch:1 step:298 loss:1.3935006856918335
+2022/02/27 20:05:31 - INFO - src.utils - epoch:1 step:300 loss:1.3477115631103516
+2022/02/27 20:05:33 - INFO - src.utils - epoch:1 step:300 acc:0.6158256880733946
+2022/02/27 20:05:33 - INFO - src.utils - epoch:1 step:302 loss:1.3853741884231567
+2022/02/27 20:05:33 - INFO - src.utils - epoch:1 step:304 loss:1.3539080619812012
+2022/02/27 20:05:33 - INFO - src.utils - epoch:1 step:306 loss:1.3528597354888916
+2022/02/27 20:05:33 - INFO - src.utils - epoch:1 step:308 loss:1.3956637382507324
+2022/02/27 20:05:33 - INFO - src.utils - epoch:1 step:310 loss:1.359114170074463
+2022/02/27 20:05:34 - INFO - src.utils - epoch:1 step:312 loss:1.3997400999069214
+2022/02/27 20:05:34 - INFO - src.utils - epoch:1 step:314 loss:1.3536980152130127
+2022/02/27 20:05:34 - INFO - src.utils - epoch:1 step:316 loss:1.3637105226516724
+2022/02/27 20:05:34 - INFO - src.utils - epoch:1 step:318 loss:1.3517765998840332
+2022/02/27 20:05:34 - INFO - src.utils - epoch:1 step:320 loss:1.3963398933410645
+2022/02/27 20:05:34 - INFO - src.utils - epoch:1 step:322 loss:1.3890833854675293
+2022/02/27 20:05:35 - INFO - src.utils - epoch:1 step:324 loss:1.282538890838623
+2022/02/27 20:05:35 - INFO - src.utils - epoch:1 step:326 loss:1.3867932558059692
+2022/02/27 20:05:35 - INFO - src.utils - epoch:1 step:328 loss:1.3527748584747314
+2022/02/27 20:05:35 - INFO - src.utils - epoch:1 step:330 loss:1.3609052896499634
+2022/02/27 20:05:35 - INFO - src.utils - epoch:1 step:332 loss:1.3746086359024048
+2022/02/27 20:05:36 - INFO - src.utils - epoch:1 step:334 loss:1.3453850746154785
+2022/02/27 20:05:36 - INFO - src.utils - epoch:1 step:336 loss:1.4048280715942383
+2022/02/27 20:05:36 - INFO - src.utils - epoch:1 step:338 loss:1.3545525074005127
+2022/02/27 20:05:36 - INFO - src.utils - epoch:1 step:340 loss:1.332903265953064
+2022/02/27 20:05:36 - INFO - src.utils - epoch:1 step:342 loss:1.3400866985321045
+2022/02/27 20:05:37 - INFO - src.utils - epoch:1 step:344 loss:1.3694510459899902
+2022/02/27 20:05:37 - INFO - src.utils - epoch:1 step:346 loss:1.3779550790786743
+2022/02/27 20:05:37 - INFO - src.utils - epoch:1 step:348 loss:1.4165006875991821
+2022/02/27 20:05:37 - INFO - src.utils - epoch:1 step:350 loss:1.3815151453018188
+2022/02/27 20:05:37 - INFO - src.utils - epoch:1 step:352 loss:1.3391414880752563
+2022/02/27 20:05:38 - INFO - src.utils - epoch:1 step:354 loss:1.3602577447891235
+2022/02/27 20:05:38 - INFO - src.utils - epoch:1 step:356 loss:1.3779237270355225
+2022/02/27 20:05:38 - INFO - src.utils - epoch:1 step:358 loss:1.3462762832641602
+2022/02/27 20:05:38 - INFO - src.utils - epoch:1 step:360 loss:1.4044382572174072
+2022/02/27 20:05:38 - INFO - src.utils - epoch:1 step:362 loss:1.3808906078338623
+2022/02/27 20:05:39 - INFO - src.utils - epoch:1 step:364 loss:1.3620922565460205
+2022/02/27 20:05:39 - INFO - src.utils - epoch:1 step:366 loss:1.3719233274459839
+2022/02/27 20:05:39 - INFO - src.utils - epoch:1 step:368 loss:1.3566348552703857
+2022/02/27 20:05:39 - INFO - src.utils - epoch:1 step:370 loss:1.3897109031677246
+2022/02/27 20:05:39 - INFO - src.utils - epoch:1 step:372 loss:1.355684518814087
+2022/02/27 20:05:39 - INFO - src.utils - epoch:1 step:374 loss:1.3727643489837646
+2022/02/27 20:05:40 - INFO - src.utils - epoch:1 step:376 loss:1.3861279487609863
+2022/02/27 20:05:40 - INFO - src.utils - epoch:1 step:378 loss:1.3725857734680176
+2022/02/27 20:05:40 - INFO - src.utils - epoch:1 step:380 loss:1.372584581375122
+2022/02/27 20:05:40 - INFO - src.utils - epoch:1 step:382 loss:1.4586639404296875
+2022/02/27 20:05:40 - INFO - src.utils - epoch:1 step:384 loss:1.4107592105865479
+2022/02/27 20:05:41 - INFO - src.utils - epoch:1 step:386 loss:1.3477747440338135
+2022/02/27 20:05:41 - INFO - src.utils - epoch:1 step:388 loss:1.3593273162841797
+2022/02/27 20:05:41 - INFO - src.utils - epoch:1 step:390 loss:1.3947668075561523
+2022/02/27 20:05:41 - INFO - src.utils - epoch:1 step:392 loss:1.4147281646728516
+2022/02/27 20:05:41 - INFO - src.utils - epoch:1 step:394 loss:1.4022705554962158
+2022/02/27 20:05:42 - INFO - src.utils - epoch:1 step:396 loss:1.4001541137695312
+2022/02/27 20:05:42 - INFO - src.utils - epoch:1 step:398 loss:1.338153600692749
+2022/02/27 20:05:42 - INFO - src.utils - epoch:1 step:400 loss:1.2859925031661987
+2022/02/27 20:05:43 - INFO - src.utils - epoch:1 step:400 acc:0.6158256880733946
+2022/02/27 20:05:44 - INFO - src.utils - epoch:1 step:402 loss:1.3377323150634766
+2022/02/27 20:05:44 - INFO - src.utils - epoch:1 step:404 loss:1.4115946292877197
+2022/02/27 20:05:44 - INFO - src.utils - epoch:1 step:406 loss:1.360039472579956
+2022/02/27 20:05:44 - INFO - src.utils - epoch:1 step:408 loss:1.3662571907043457
+2022/02/27 20:05:44 - INFO - src.utils - epoch:1 step:410 loss:1.3884656429290771
+2022/02/27 20:05:44 - INFO - src.utils - epoch:1 step:412 loss:1.3516488075256348
+2022/02/27 20:05:45 - INFO - src.utils - epoch:1 step:414 loss:1.373049020767212
+2022/02/27 20:05:45 - INFO - src.utils - epoch:1 step:416 loss:1.3863561153411865
+2022/02/27 20:05:45 - INFO - src.utils - epoch:1 step:418 loss:1.3274595737457275
+2022/02/27 20:05:45 - INFO - src.utils - epoch:1 step:420 loss:1.3746833801269531
+2022/02/27 20:05:45 - INFO - src.utils - epoch:1 step:422 loss:1.3159383535385132
+2022/02/27 20:05:46 - INFO - src.utils - epoch:1 step:424 loss:1.3736255168914795
+2022/02/27 20:05:46 - INFO - src.utils - epoch:1 step:426 loss:1.359628677368164
+2022/02/27 20:05:46 - INFO - src.utils - epoch:1 step:428 loss:1.3933217525482178
+2022/02/27 20:05:46 - INFO - src.utils - epoch:1 step:430 loss:1.3756121397018433
+2022/02/27 20:05:46 - INFO - src.utils - epoch:1 step:432 loss:1.3696964979171753
+2022/02/27 20:05:46 - INFO - src.utils - epoch:2 step:434 loss:0.6947450637817383
+2022/02/27 20:05:47 - INFO - src.utils - epoch:2 step:436 loss:1.358750343322754
+2022/02/27 20:05:47 - INFO - src.utils - epoch:2 step:438 loss:1.3764934539794922
+2022/02/27 20:05:47 - INFO - src.utils - epoch:2 step:440 loss:1.3489391803741455
+2022/02/27 20:05:47 - INFO - src.utils - epoch:2 step:442 loss:1.4091875553131104
+2022/02/27 20:05:47 - INFO - src.utils - epoch:2 step:444 loss:1.3322316408157349
+2022/02/27 20:05:48 - INFO - src.utils - epoch:2 step:446 loss:1.4056670665740967
+2022/02/27 20:05:48 - INFO - src.utils - epoch:2 step:448 loss:1.3799704313278198
+2022/02/27 20:05:48 - INFO - src.utils - epoch:2 step:450 loss:1.315704584121704
+2022/02/27 20:05:48 - INFO - src.utils - epoch:2 step:452 loss:1.3323285579681396
+2022/02/27 20:05:48 - INFO - src.utils - epoch:2 step:454 loss:1.3518304824829102
+2022/02/27 20:05:49 - INFO - src.utils - epoch:2 step:456 loss:1.380123257637024
+2022/02/27 20:05:49 - INFO - src.utils - epoch:2 step:458 loss:1.4052691459655762
+2022/02/27 20:05:49 - INFO - src.utils - epoch:2 step:460 loss:1.3731238842010498
+2022/02/27 20:05:49 - INFO - src.utils - epoch:2 step:462 loss:1.3780317306518555
+2022/02/27 20:05:49 - INFO - src.utils - epoch:2 step:464 loss:1.3941400051116943
+2022/02/27 20:05:50 - INFO - src.utils - epoch:2 step:466 loss:1.4212052822113037
+2022/02/27 20:05:50 - INFO - src.utils - epoch:2 step:468 loss:1.353048324584961
+2022/02/27 20:05:50 - INFO - src.utils - epoch:2 step:470 loss:1.3607087135314941
+2022/02/27 20:05:50 - INFO - src.utils - epoch:2 step:472 loss:1.365576982498169
+2022/02/27 20:05:50 - INFO - src.utils - epoch:2 step:474 loss:1.3830809593200684
+2022/02/27 20:05:50 - INFO - src.utils - epoch:2 step:476 loss:1.3550442457199097
+2022/02/27 20:05:51 - INFO - src.utils - epoch:2 step:478 loss:1.404212474822998
+2022/02/27 20:05:51 - INFO - src.utils - epoch:2 step:480 loss:1.3433685302734375
+2022/02/27 20:05:51 - INFO - src.utils - epoch:2 step:482 loss:1.4304111003875732
+2022/02/27 20:05:51 - INFO - src.utils - epoch:2 step:484 loss:1.3799456357955933
+2022/02/27 20:05:51 - INFO - src.utils - epoch:2 step:486 loss:1.3809359073638916
+2022/02/27 20:05:52 - INFO - src.utils - epoch:2 step:488 loss:1.3767377138137817
+2022/02/27 20:05:52 - INFO - src.utils - epoch:2 step:490 loss:1.3473854064941406
+2022/02/27 20:05:52 - INFO - src.utils - epoch:2 step:492 loss:1.347798466682434
+2022/02/27 20:05:52 - INFO - src.utils - epoch:2 step:494 loss:1.3364368677139282
+2022/02/27 20:05:52 - INFO - src.utils - epoch:2 step:496 loss:1.371774673461914
+2022/02/27 20:05:53 - INFO - src.utils - epoch:2 step:498 loss:1.4443325996398926
+2022/02/27 20:05:53 - INFO - src.utils - epoch:2 step:500 loss:1.3528156280517578
+2022/02/27 20:05:54 - INFO - src.utils - epoch:2 step:500 acc:0.6158256880733946
+2022/02/27 20:05:54 - INFO - src.utils - epoch:2 step:502 loss:1.3682818412780762
+2022/02/27 20:05:55 - INFO - src.utils - epoch:2 step:504 loss:1.342954397201538
+2022/02/27 20:05:55 - INFO - src.utils - epoch:2 step:506 loss:1.394341230392456
+2022/02/27 20:05:55 - INFO - src.utils - epoch:2 step:508 loss:1.318694829940796
+2022/02/27 20:05:55 - INFO - src.utils - epoch:2 step:510 loss:1.3943004608154297
+2022/02/27 20:05:55 - INFO - src.utils - epoch:2 step:512 loss:1.3499966859817505
+2022/02/27 20:05:55 - INFO - src.utils - epoch:2 step:514 loss:1.3518157005310059
+2022/02/27 20:05:56 - INFO - src.utils - epoch:2 step:516 loss:1.3838465213775635
+2022/02/27 20:05:56 - INFO - src.utils - epoch:2 step:518 loss:1.3477184772491455
+2022/02/27 20:05:56 - INFO - src.utils - epoch:2 step:520 loss:1.3744795322418213
+2022/02/27 20:05:56 - INFO - src.utils - epoch:2 step:522 loss:1.3802266120910645
+2022/02/27 20:05:56 - INFO - src.utils - epoch:2 step:524 loss:1.3547630310058594
+2022/02/27 20:05:57 - INFO - src.utils - epoch:2 step:526 loss:1.3546192646026611
+2022/02/27 20:05:57 - INFO - src.utils - epoch:2 step:528 loss:1.3692989349365234
+2022/02/27 20:05:57 - INFO - src.utils - epoch:2 step:530 loss:1.4053328037261963
+2022/02/27 20:05:57 - INFO - src.utils - epoch:2 step:532 loss:1.4099743366241455
+2022/02/27 20:05:57 - INFO - src.utils - epoch:2 step:534 loss:1.3775919675827026
+2022/02/27 20:05:57 - INFO - src.utils - epoch:2 step:536 loss:1.4038772583007812
+2022/02/27 20:05:58 - INFO - src.utils - epoch:2 step:538 loss:1.3949596881866455
+2022/02/27 20:05:58 - INFO - src.utils - epoch:2 step:540 loss:1.3742702007293701
+2022/02/27 20:05:58 - INFO - src.utils - epoch:2 step:542 loss:1.3768435716629028
+2022/02/27 20:05:58 - INFO - src.utils - epoch:2 step:544 loss:1.4015135765075684
+2022/02/27 20:05:58 - INFO - src.utils - epoch:2 step:546 loss:1.3559828996658325
+2022/02/27 20:05:58 - INFO - src.utils - epoch:2 step:548 loss:1.361959457397461
+2022/02/27 20:05:59 - INFO - src.utils - epoch:2 step:550 loss:1.3702489137649536
+2022/02/27 20:05:59 - INFO - src.utils - epoch:2 step:552 loss:1.3482739925384521
+2022/02/27 20:05:59 - INFO - src.utils - epoch:2 step:554 loss:1.3705623149871826
+2022/02/27 20:05:59 - INFO - src.utils - epoch:2 step:556 loss:1.3655519485473633
+2022/02/27 20:05:59 - INFO - src.utils - epoch:2 step:558 loss:1.3902225494384766
+2022/02/27 20:06:00 - INFO - src.utils - epoch:2 step:560 loss:1.3467202186584473
+2022/02/27 20:06:00 - INFO - src.utils - epoch:2 step:562 loss:1.3553423881530762
+2022/02/27 20:06:00 - INFO - src.utils - epoch:2 step:564 loss:1.3816206455230713
+2022/02/27 20:06:00 - INFO - src.utils - epoch:2 step:566 loss:1.4022445678710938
+2022/02/27 20:06:00 - INFO - src.utils - epoch:2 step:568 loss:1.395801305770874
+2022/02/27 20:06:00 - INFO - src.utils - epoch:2 step:570 loss:1.362360954284668
+2022/02/27 20:06:01 - INFO - src.utils - epoch:2 step:572 loss:1.3585294485092163
+2022/02/27 20:06:01 - INFO - src.utils - epoch:2 step:574 loss:1.411461353302002
+2022/02/27 20:06:01 - INFO - src.utils - epoch:2 step:576 loss:1.4123122692108154
+2022/02/27 20:06:01 - INFO - src.utils - epoch:2 step:578 loss:1.3820528984069824
+2022/02/27 20:06:01 - INFO - src.utils - epoch:2 step:580 loss:1.3866322040557861
+2022/02/27 20:06:02 - INFO - src.utils - epoch:2 step:582 loss:1.3094000816345215
+2022/02/27 20:06:02 - INFO - src.utils - epoch:2 step:584 loss:1.359614610671997
+2022/02/27 20:06:02 - INFO - src.utils - epoch:2 step:586 loss:1.379631519317627
+2022/02/27 20:06:02 - INFO - src.utils - epoch:2 step:588 loss:1.4156014919281006
+2022/02/27 20:06:02 - INFO - src.utils - epoch:2 step:590 loss:1.332736849784851
+2022/02/27 20:06:03 - INFO - src.utils - epoch:2 step:592 loss:1.3536548614501953
+2022/02/27 20:06:03 - INFO - src.utils - epoch:2 step:594 loss:1.3602218627929688
+2022/02/27 20:06:03 - INFO - src.utils - epoch:2 step:596 loss:1.3715095520019531
+2022/02/27 20:06:03 - INFO - src.utils - epoch:2 step:598 loss:1.4008147716522217
+2022/02/27 20:06:03 - INFO - src.utils - epoch:2 step:600 loss:1.3880047798156738
+2022/02/27 20:06:05 - INFO - src.utils - epoch:2 step:600 acc:0.6158256880733946
+2022/02/27 20:06:05 - INFO - src.utils - epoch:2 step:602 loss:1.4092072248458862
+2022/02/27 20:06:05 - INFO - src.utils - epoch:2 step:604 loss:1.3154085874557495
+2022/02/27 20:06:05 - INFO - src.utils - epoch:2 step:606 loss:1.3541970252990723
+2022/02/27 20:06:05 - INFO - src.utils - epoch:2 step:608 loss:1.3515572547912598
+2022/02/27 20:06:06 - INFO - src.utils - epoch:2 step:610 loss:1.3600319623947144
+2022/02/27 20:06:06 - INFO - src.utils - epoch:2 step:612 loss:1.3795679807662964
+2022/02/27 20:06:06 - INFO - src.utils - epoch:2 step:614 loss:1.423929214477539
+2022/02/27 20:06:06 - INFO - src.utils - epoch:2 step:616 loss:1.3337187767028809
+2022/02/27 20:06:06 - INFO - src.utils - epoch:2 step:618 loss:1.4009697437286377
+2022/02/27 20:06:07 - INFO - src.utils - epoch:2 step:620 loss:1.4288475513458252
+2022/02/27 20:06:07 - INFO - src.utils - epoch:2 step:622 loss:1.3702497482299805
+2022/02/27 20:06:07 - INFO - src.utils - epoch:2 step:624 loss:1.4087731838226318
+2022/02/27 20:06:07 - INFO - src.utils - epoch:2 step:626 loss:1.403959035873413
+2022/02/27 20:06:07 - INFO - src.utils - epoch:2 step:628 loss:1.4171147346496582
+2022/02/27 20:06:07 - INFO - src.utils - epoch:2 step:630 loss:1.3559819459915161
+2022/02/27 20:06:08 - INFO - src.utils - epoch:2 step:632 loss:1.3933395147323608
+2022/02/27 20:06:08 - INFO - src.utils - epoch:2 step:634 loss:1.3536975383758545
+2022/02/27 20:06:08 - INFO - src.utils - epoch:2 step:636 loss:1.373306155204773
+2022/02/27 20:06:08 - INFO - src.utils - epoch:2 step:638 loss:1.3718701601028442
+2022/02/27 20:06:08 - INFO - src.utils - epoch:2 step:640 loss:1.3766546249389648
+2022/02/27 20:06:08 - INFO - src.utils - epoch:2 step:642 loss:1.4065077304840088
+2022/02/27 20:06:09 - INFO - src.utils - epoch:2 step:644 loss:1.327584981918335
+2022/02/27 20:06:09 - INFO - src.utils - epoch:2 step:646 loss:1.3987783193588257
+2022/02/27 20:06:09 - INFO - src.utils - epoch:2 step:648 loss:1.332015872001648
+2022/02/27 20:06:09 - INFO - src.utils - epoch:2 step:650 loss:1.419907808303833
+2022/02/27 20:06:09 - INFO - src.utils - epoch:3 step:652 loss:1.3659460544586182
+2022/02/27 20:06:09 - INFO - src.utils - epoch:3 step:654 loss:1.399839997291565
+2022/02/27 20:06:10 - INFO - src.utils - epoch:3 step:656 loss:1.3523752689361572
+2022/02/27 20:06:10 - INFO - src.utils - epoch:3 step:658 loss:1.3979263305664062
+2022/02/27 20:06:10 - INFO - src.utils - epoch:3 step:660 loss:1.3763947486877441
+2022/02/27 20:06:10 - INFO - src.utils - epoch:3 step:662 loss:1.4205503463745117
+2022/02/27 20:06:10 - INFO - src.utils - epoch:3 step:664 loss:1.4172348976135254
+2022/02/27 20:06:11 - INFO - src.utils - epoch:3 step:666 loss:1.382575273513794
+2022/02/27 20:06:11 - INFO - src.utils - epoch:3 step:668 loss:1.4018967151641846
+2022/02/27 20:06:11 - INFO - src.utils - epoch:3 step:670 loss:1.3703898191452026
+2022/02/27 20:06:11 - INFO - src.utils - epoch:3 step:672 loss:1.3877578973770142
+2022/02/27 20:06:11 - INFO - src.utils - epoch:3 step:674 loss:1.4029344320297241
+2022/02/27 20:06:12 - INFO - src.utils - epoch:3 step:676 loss:1.3550782203674316
+2022/02/27 20:06:12 - INFO - src.utils - epoch:3 step:678 loss:1.344886302947998
+2022/02/27 20:06:12 - INFO - src.utils - epoch:3 step:680 loss:1.3818995952606201
+2022/02/27 20:06:12 - INFO - src.utils - epoch:3 step:682 loss:1.360176920890808
+2022/02/27 20:06:12 - INFO - src.utils - epoch:3 step:684 loss:1.35215163230896
+2022/02/27 20:06:13 - INFO - src.utils - epoch:3 step:686 loss:1.3926506042480469
+2022/02/27 20:06:13 - INFO - src.utils - epoch:3 step:688 loss:1.354517936706543
+2022/02/27 20:06:13 - INFO - src.utils - epoch:3 step:690 loss:1.3744343519210815
+2022/02/27 20:06:13 - INFO - src.utils - epoch:3 step:692 loss:1.410199761390686
+2022/02/27 20:06:13 - INFO - src.utils - epoch:3 step:694 loss:1.3751111030578613
+2022/02/27 20:06:14 - INFO - src.utils - epoch:3 step:696 loss:1.4122579097747803
+2022/02/27 20:06:14 - INFO - src.utils - epoch:3 step:698 loss:1.3569865226745605
+2022/02/27 20:06:14 - INFO - src.utils - epoch:3 step:700 loss:1.3784137964248657
+2022/02/27 20:06:15 - INFO - src.utils - epoch:3 step:700 acc:0.6158256880733946
+2022/02/27 20:06:16 - INFO - src.utils - epoch:3 step:702 loss:1.3242403268814087
+2022/02/27 20:06:16 - INFO - src.utils - epoch:3 step:704 loss:1.3950607776641846
+2022/02/27 20:06:16 - INFO - src.utils - epoch:3 step:706 loss:1.3560230731964111
+2022/02/27 20:06:16 - INFO - src.utils - epoch:3 step:708 loss:1.3367798328399658
+2022/02/27 20:06:16 - INFO - src.utils - epoch:3 step:710 loss:1.3170723915100098
+2022/02/27 20:06:16 - INFO - src.utils - epoch:3 step:712 loss:1.3755743503570557
+2022/02/27 20:06:17 - INFO - src.utils - epoch:3 step:714 loss:1.3769465684890747
+2022/02/27 20:06:17 - INFO - src.utils - epoch:3 step:716 loss:1.3526108264923096
+2022/02/27 20:06:17 - INFO - src.utils - epoch:3 step:718 loss:1.4104021787643433
+2022/02/27 20:06:17 - INFO - src.utils - epoch:3 step:720 loss:1.3392770290374756
+2022/02/27 20:06:17 - INFO - src.utils - epoch:3 step:722 loss:1.3434466123580933
+2022/02/27 20:06:18 - INFO - src.utils - epoch:3 step:724 loss:1.410800814628601
+2022/02/27 20:06:18 - INFO - src.utils - epoch:3 step:726 loss:1.4021177291870117
+2022/02/27 20:06:18 - INFO - src.utils - epoch:3 step:728 loss:1.3538036346435547
+2022/02/27 20:06:18 - INFO - src.utils - epoch:3 step:730 loss:1.361269235610962
+2022/02/27 20:06:18 - INFO - src.utils - epoch:3 step:732 loss:1.3625874519348145
+2022/02/27 20:06:18 - INFO - src.utils - epoch:3 step:734 loss:1.3712975978851318
+2022/02/27 20:06:19 - INFO - src.utils - epoch:3 step:736 loss:1.3452118635177612
+2022/02/27 20:06:19 - INFO - src.utils - epoch:3 step:738 loss:1.4324543476104736
+2022/02/27 20:06:19 - INFO - src.utils - epoch:3 step:740 loss:1.334169626235962
+2022/02/27 20:06:19 - INFO - src.utils - epoch:3 step:742 loss:1.4138506650924683
+2022/02/27 20:06:19 - INFO - src.utils - epoch:3 step:744 loss:1.3503941297531128
+2022/02/27 20:06:19 - INFO - src.utils - epoch:3 step:746 loss:1.3921395540237427
+2022/02/27 20:06:20 - INFO - src.utils - epoch:3 step:748 loss:1.3962033987045288
+2022/02/27 20:06:20 - INFO - src.utils - epoch:3 step:750 loss:1.3048148155212402
+2022/02/27 20:06:20 - INFO - src.utils - epoch:3 step:752 loss:1.4126722812652588
+2022/02/27 20:06:20 - INFO - src.utils - epoch:3 step:754 loss:1.4163545370101929
+2022/02/27 20:06:20 - INFO - src.utils - epoch:3 step:756 loss:1.365771770477295
+2022/02/27 20:06:21 - INFO - src.utils - epoch:3 step:758 loss:1.3280491828918457
+2022/02/27 20:06:21 - INFO - src.utils - epoch:3 step:760 loss:1.381704568862915
+2022/02/27 20:06:21 - INFO - src.utils - epoch:3 step:762 loss:1.3690297603607178
+2022/02/27 20:06:21 - INFO - src.utils - epoch:3 step:764 loss:1.3807954788208008
+2022/02/27 20:06:21 - INFO - src.utils - epoch:3 step:766 loss:1.3768023252487183
+2022/02/27 20:06:21 - INFO - src.utils - epoch:3 step:768 loss:1.456913948059082
+2022/02/27 20:06:22 - INFO - src.utils - epoch:3 step:770 loss:1.3740086555480957
+2022/02/27 20:06:22 - INFO - src.utils - epoch:3 step:772 loss:1.3951525688171387
+2022/02/27 20:06:22 - INFO - src.utils - epoch:3 step:774 loss:1.3701462745666504
+2022/02/27 20:06:22 - INFO - src.utils - epoch:3 step:776 loss:1.3759111166000366
+2022/02/27 20:06:22 - INFO - src.utils - epoch:3 step:778 loss:1.3735742568969727
+2022/02/27 20:06:22 - INFO - src.utils - epoch:3 step:780 loss:1.3575778007507324
+2022/02/27 20:06:23 - INFO - src.utils - epoch:3 step:782 loss:1.378009557723999
+2022/02/27 20:06:23 - INFO - src.utils - epoch:3 step:784 loss:1.3991420269012451
+2022/02/27 20:06:23 - INFO - src.utils - epoch:3 step:786 loss:1.3418254852294922
+2022/02/27 20:06:23 - INFO - src.utils - epoch:3 step:788 loss:1.4178833961486816
+2022/02/27 20:06:23 - INFO - src.utils - epoch:3 step:790 loss:1.4017081260681152
+2022/02/27 20:06:24 - INFO - src.utils - epoch:3 step:792 loss:1.3592243194580078
+2022/02/27 20:06:24 - INFO - src.utils - epoch:3 step:794 loss:1.4207580089569092
+2022/02/27 20:06:24 - INFO - src.utils - epoch:3 step:796 loss:1.3639284372329712
+2022/02/27 20:06:24 - INFO - src.utils - epoch:3 step:798 loss:1.3838281631469727
+2022/02/27 20:06:24 - INFO - src.utils - epoch:3 step:800 loss:1.3786240816116333
+2022/02/27 20:06:26 - INFO - src.utils - epoch:3 step:800 acc:0.6158256880733946
+2022/02/27 20:06:26 - INFO - src.utils - epoch:3 step:802 loss:1.3659040927886963
+2022/02/27 20:06:26 - INFO - src.utils - epoch:3 step:804 loss:1.376620888710022
+2022/02/27 20:06:26 - INFO - src.utils - epoch:3 step:806 loss:1.344010353088379
+2022/02/27 20:06:26 - INFO - src.utils - epoch:3 step:808 loss:1.3355827331542969
+2022/02/27 20:06:26 - INFO - src.utils - epoch:3 step:810 loss:1.4173672199249268
+2022/02/27 20:06:27 - INFO - src.utils - epoch:3 step:812 loss:1.3969764709472656
+2022/02/27 20:06:27 - INFO - src.utils - epoch:3 step:814 loss:1.375239372253418
+2022/02/27 20:06:27 - INFO - src.utils - epoch:3 step:816 loss:1.3770723342895508
+2022/02/27 20:06:27 - INFO - src.utils - epoch:3 step:818 loss:1.3506033420562744
+2022/02/27 20:06:27 - INFO - src.utils - epoch:3 step:820 loss:1.2899448871612549
+2022/02/27 20:06:27 - INFO - src.utils - epoch:3 step:822 loss:1.3760660886764526
+2022/02/27 20:06:28 - INFO - src.utils - epoch:3 step:824 loss:1.3827130794525146
+2022/02/27 20:06:28 - INFO - src.utils - epoch:3 step:826 loss:1.3211603164672852
+2022/02/27 20:06:28 - INFO - src.utils - epoch:3 step:828 loss:1.3590641021728516
+2022/02/27 20:06:28 - INFO - src.utils - epoch:3 step:830 loss:1.4335944652557373
+2022/02/27 20:06:28 - INFO - src.utils - epoch:3 step:832 loss:1.3801206350326538
+2022/02/27 20:06:29 - INFO - src.utils - epoch:3 step:834 loss:1.3215525150299072
+2022/02/27 20:06:29 - INFO - src.utils - epoch:3 step:836 loss:1.3562719821929932
+2022/02/27 20:06:29 - INFO - src.utils - epoch:3 step:838 loss:1.3317261934280396
+2022/02/27 20:06:29 - INFO - src.utils - epoch:3 step:840 loss:1.3554422855377197
+2022/02/27 20:06:29 - INFO - src.utils - epoch:3 step:842 loss:1.3967092037200928
+2022/02/27 20:06:30 - INFO - src.utils - epoch:3 step:844 loss:1.4179959297180176
+2022/02/27 20:06:30 - INFO - src.utils - epoch:3 step:846 loss:1.3518953323364258
+2022/02/27 20:06:30 - INFO - src.utils - epoch:3 step:848 loss:1.3870549201965332
+2022/02/27 20:06:30 - INFO - src.utils - epoch:3 step:850 loss:1.3931574821472168
+2022/02/27 20:06:30 - INFO - src.utils - epoch:3 step:852 loss:1.4124284982681274
+2022/02/27 20:06:30 - INFO - src.utils - epoch:3 step:854 loss:1.465344786643982
+2022/02/27 20:06:31 - INFO - src.utils - epoch:3 step:856 loss:1.3575658798217773
+2022/02/27 20:06:31 - INFO - src.utils - epoch:3 step:858 loss:1.3705828189849854
+2022/02/27 20:06:31 - INFO - src.utils - epoch:3 step:860 loss:1.4000244140625
+2022/02/27 20:06:31 - INFO - src.utils - epoch:3 step:862 loss:1.3244855403900146
+2022/02/27 20:06:31 - INFO - src.utils - epoch:3 step:864 loss:1.3736348152160645
+2022/02/27 20:06:32 - INFO - src.utils - epoch:3 step:866 loss:1.3523348569869995
+2022/02/27 20:06:32 - INFO - src.utils - epoch:4 step:868 loss:0.6880337595939636
+2022/02/27 20:06:32 - INFO - src.utils - epoch:4 step:870 loss:1.3737751245498657
+2022/02/27 20:06:32 - INFO - src.utils - epoch:4 step:872 loss:1.3653922080993652
+2022/02/27 20:06:32 - INFO - src.utils - epoch:4 step:874 loss:1.3806390762329102
+2022/02/27 20:06:33 - INFO - src.utils - epoch:4 step:876 loss:1.3450989723205566
+2022/02/27 20:06:33 - INFO - src.utils - epoch:4 step:878 loss:1.4054527282714844
+2022/02/27 20:06:33 - INFO - src.utils - epoch:4 step:880 loss:1.3692409992218018
+2022/02/27 20:06:33 - INFO - src.utils - epoch:4 step:882 loss:1.387011170387268
+2022/02/27 20:06:33 - INFO - src.utils - epoch:4 step:884 loss:1.3377091884613037
+2022/02/27 20:06:34 - INFO - src.utils - epoch:4 step:886 loss:1.3116259574890137
+2022/02/27 20:06:34 - INFO - src.utils - epoch:4 step:888 loss:1.3601784706115723
+2022/02/27 20:06:34 - INFO - src.utils - epoch:4 step:890 loss:1.361926555633545
+2022/02/27 20:06:34 - INFO - src.utils - epoch:4 step:892 loss:1.3435522317886353
+2022/02/27 20:06:34 - INFO - src.utils - epoch:4 step:894 loss:1.3668386936187744
+2022/02/27 20:06:35 - INFO - src.utils - epoch:4 step:896 loss:1.3520689010620117
+2022/02/27 20:06:35 - INFO - src.utils - epoch:4 step:898 loss:1.3459619283676147
+2022/02/27 20:06:35 - INFO - src.utils - epoch:4 step:900 loss:1.3085172176361084
+2022/02/27 20:06:36 - INFO - src.utils - epoch:4 step:900 acc:0.6158256880733946
+2022/02/27 20:06:37 - INFO - src.utils - epoch:4 step:902 loss:1.411580204963684
+2022/02/27 20:06:37 - INFO - src.utils - epoch:4 step:904 loss:1.3698279857635498
+2022/02/27 20:06:37 - INFO - src.utils - epoch:4 step:906 loss:1.3989777565002441
+2022/02/27 20:06:37 - INFO - src.utils - epoch:4 step:908 loss:1.4175152778625488
+2022/02/27 20:06:37 - INFO - src.utils - epoch:4 step:910 loss:1.3516740798950195
+2022/02/27 20:06:37 - INFO - src.utils - epoch:4 step:912 loss:1.346686840057373
+2022/02/27 20:06:38 - INFO - src.utils - epoch:4 step:914 loss:1.3535547256469727
+2022/02/27 20:06:38 - INFO - src.utils - epoch:4 step:916 loss:1.41861891746521
+2022/02/27 20:06:38 - INFO - src.utils - epoch:4 step:918 loss:1.4044532775878906
+2022/02/27 20:06:38 - INFO - src.utils - epoch:4 step:920 loss:1.3781263828277588
+2022/02/27 20:06:38 - INFO - src.utils - epoch:4 step:922 loss:1.3769755363464355
+2022/02/27 20:06:38 - INFO - src.utils - epoch:4 step:924 loss:1.360323190689087
+2022/02/27 20:06:39 - INFO - src.utils - epoch:4 step:926 loss:1.3635914325714111
+2022/02/27 20:06:39 - INFO - src.utils - epoch:4 step:928 loss:1.337787389755249
+2022/02/27 20:06:39 - INFO - src.utils - epoch:4 step:930 loss:1.3936455249786377
+2022/02/27 20:06:39 - INFO - src.utils - epoch:4 step:932 loss:1.3753304481506348
+2022/02/27 20:06:39 - INFO - src.utils - epoch:4 step:934 loss:1.39497709274292
+2022/02/27 20:06:40 - INFO - src.utils - epoch:4 step:936 loss:1.3851444721221924
+2022/02/27 20:06:40 - INFO - src.utils - epoch:4 step:938 loss:1.3874406814575195
+2022/02/27 20:06:40 - INFO - src.utils - epoch:4 step:940 loss:1.3267734050750732
+2022/02/27 20:06:40 - INFO - src.utils - epoch:4 step:942 loss:1.358821153640747
+2022/02/27 20:06:40 - INFO - src.utils - epoch:4 step:944 loss:1.3600302934646606
+2022/02/27 20:06:40 - INFO - src.utils - epoch:4 step:946 loss:1.3716652393341064
+2022/02/27 20:06:41 - INFO - src.utils - epoch:4 step:948 loss:1.3789138793945312
+2022/02/27 20:06:41 - INFO - src.utils - epoch:4 step:950 loss:1.3456103801727295
+2022/02/27 20:06:41 - INFO - src.utils - epoch:4 step:952 loss:1.3836669921875
+2022/02/27 20:06:41 - INFO - src.utils - epoch:4 step:954 loss:1.388221025466919
+2022/02/27 20:06:41 - INFO - src.utils - epoch:4 step:956 loss:1.3353338241577148
+2022/02/27 20:06:42 - INFO - src.utils - epoch:4 step:958 loss:1.404868483543396
+2022/02/27 20:06:42 - INFO - src.utils - epoch:4 step:960 loss:1.4096852540969849
+2022/02/27 20:06:42 - INFO - src.utils - epoch:4 step:962 loss:1.4091376066207886
+2022/02/27 20:06:42 - INFO - src.utils - epoch:4 step:964 loss:1.3684972524642944
+2022/02/27 20:06:42 - INFO - src.utils - epoch:4 step:966 loss:1.38373601436615
+2022/02/27 20:06:42 - INFO - src.utils - epoch:4 step:968 loss:1.3923684358596802
+2022/02/27 20:06:43 - INFO - src.utils - epoch:4 step:970 loss:1.3749198913574219
+2022/02/27 20:06:43 - INFO - src.utils - epoch:4 step:972 loss:1.423828363418579
+2022/02/27 20:06:43 - INFO - src.utils - epoch:4 step:974 loss:1.412182092666626
+2022/02/27 20:06:43 - INFO - src.utils - epoch:4 step:976 loss:1.4034347534179688
+2022/02/27 20:06:43 - INFO - src.utils - epoch:4 step:978 loss:1.39083731174469
+2022/02/27 20:06:43 - INFO - src.utils - epoch:4 step:980 loss:1.4104104042053223
+2022/02/27 20:06:44 - INFO - src.utils - epoch:4 step:982 loss:1.3551478385925293
+2022/02/27 20:06:44 - INFO - src.utils - epoch:4 step:984 loss:1.3791580200195312
+2022/02/27 20:06:44 - INFO - src.utils - epoch:4 step:986 loss:1.382110595703125
+2022/02/27 20:06:44 - INFO - src.utils - epoch:4 step:988 loss:1.4054827690124512
+2022/02/27 20:06:44 - INFO - src.utils - epoch:4 step:990 loss:1.384855031967163
+2022/02/27 20:06:44 - INFO - src.utils - epoch:4 step:992 loss:1.4184863567352295
+2022/02/27 20:06:45 - INFO - src.utils - epoch:4 step:994 loss:1.4079444408416748
+2022/02/27 20:06:45 - INFO - src.utils - epoch:4 step:996 loss:1.4047971963882446
+2022/02/27 20:06:45 - INFO - src.utils - epoch:4 step:998 loss:1.4011640548706055
+2022/02/27 20:06:45 - INFO - src.utils - epoch:4 step:1000 loss:1.3899896144866943
+2022/02/27 20:06:47 - INFO - src.utils - epoch:4 step:1000 acc:0.6158256880733946
+2022/02/27 20:06:47 - INFO - src.utils - epoch:4 step:1002 loss:1.3599274158477783
+2022/02/27 20:06:47 - INFO - src.utils - epoch:4 step:1004 loss:1.3659789562225342
+2022/02/27 20:06:47 - INFO - src.utils - epoch:4 step:1006 loss:1.379634141921997
+2022/02/27 20:06:47 - INFO - src.utils - epoch:4 step:1008 loss:1.3579308986663818
+2022/02/27 20:06:47 - INFO - src.utils - epoch:4 step:1010 loss:1.3911091089248657
+2022/02/27 20:06:48 - INFO - src.utils - epoch:4 step:1012 loss:1.3756365776062012
+2022/02/27 20:06:48 - INFO - src.utils - epoch:4 step:1014 loss:1.3774542808532715
+2022/02/27 20:06:48 - INFO - src.utils - epoch:4 step:1016 loss:1.3821409940719604
+2022/02/27 20:06:48 - INFO - src.utils - epoch:4 step:1018 loss:1.394887924194336
+2022/02/27 20:06:48 - INFO - src.utils - epoch:4 step:1020 loss:1.3941078186035156
+2022/02/27 20:06:48 - INFO - src.utils - epoch:4 step:1022 loss:1.3192925453186035
+2022/02/27 20:06:49 - INFO - src.utils - epoch:4 step:1024 loss:1.4400296211242676
+2022/02/27 20:06:49 - INFO - src.utils - epoch:4 step:1026 loss:1.368173599243164
+2022/02/27 20:06:49 - INFO - src.utils - epoch:4 step:1028 loss:1.3521478176116943
+2022/02/27 20:06:49 - INFO - src.utils - epoch:4 step:1030 loss:1.3838398456573486
+2022/02/27 20:06:49 - INFO - src.utils - epoch:4 step:1032 loss:1.3708860874176025
+2022/02/27 20:06:50 - INFO - src.utils - epoch:4 step:1034 loss:1.3572509288787842
+2022/02/27 20:06:50 - INFO - src.utils - epoch:4 step:1036 loss:1.3487024307250977
+2022/02/27 20:06:50 - INFO - src.utils - epoch:4 step:1038 loss:1.3665509223937988
+2022/02/27 20:06:50 - INFO - src.utils - epoch:4 step:1040 loss:1.3830058574676514
+2022/02/27 20:06:50 - INFO - src.utils - epoch:4 step:1042 loss:1.3580800294876099
+2022/02/27 20:06:50 - INFO - src.utils - epoch:4 step:1044 loss:1.3492796421051025
+2022/02/27 20:06:51 - INFO - src.utils - epoch:4 step:1046 loss:1.3547192811965942
+2022/02/27 20:06:51 - INFO - src.utils - epoch:4 step:1048 loss:1.374963641166687
+2022/02/27 20:06:51 - INFO - src.utils - epoch:4 step:1050 loss:1.3930840492248535
+2022/02/27 20:06:51 - INFO - src.utils - epoch:4 step:1052 loss:1.3440451622009277
+2022/02/27 20:06:51 - INFO - src.utils - epoch:4 step:1054 loss:1.3878107070922852
+2022/02/27 20:06:51 - INFO - src.utils - epoch:4 step:1056 loss:1.3642246723175049
+2022/02/27 20:06:52 - INFO - src.utils - epoch:4 step:1058 loss:1.3736064434051514
+2022/02/27 20:06:52 - INFO - src.utils - epoch:4 step:1060 loss:1.3653810024261475
+2022/02/27 20:06:52 - INFO - src.utils - epoch:4 step:1062 loss:1.3901636600494385
+2022/02/27 20:06:52 - INFO - src.utils - epoch:4 step:1064 loss:1.3784503936767578
+2022/02/27 20:06:52 - INFO - src.utils - epoch:4 step:1066 loss:1.435515284538269
+2022/02/27 20:06:52 - INFO - src.utils - epoch:4 step:1068 loss:1.3842759132385254
+2022/02/27 20:06:53 - INFO - src.utils - epoch:4 step:1070 loss:1.3405795097351074
+2022/02/27 20:06:53 - INFO - src.utils - epoch:4 step:1072 loss:1.393549919128418
+2022/02/27 20:06:53 - INFO - src.utils - epoch:4 step:1074 loss:1.386474847793579
+2022/02/27 20:06:53 - INFO - src.utils - epoch:4 step:1076 loss:1.3330078125
+2022/02/27 20:06:53 - INFO - src.utils - epoch:4 step:1078 loss:1.4243601560592651
+2022/02/27 20:06:54 - INFO - src.utils - epoch:4 step:1080 loss:1.3547487258911133
+2022/02/27 20:06:54 - INFO - src.utils - epoch:4 step:1082 loss:1.421830415725708
+2022/02/27 20:06:54 - INFO - src.utils - epoch:4 step:1084 loss:1.3184988498687744
+2022/02/27 20:06:54 - INFO - src.utils - epoch:5 step:1086 loss:1.3564033508300781
+2022/02/27 20:06:54 - INFO - src.utils - epoch:5 step:1088 loss:1.316699743270874
+2022/02/27 20:06:54 - INFO - src.utils - epoch:5 step:1090 loss:1.3690564632415771
+2022/02/27 20:06:55 - INFO - src.utils - epoch:5 step:1092 loss:1.395977258682251
+2022/02/27 20:06:55 - INFO - src.utils - epoch:5 step:1094 loss:1.4361698627471924
+2022/02/27 20:06:55 - INFO - src.utils - epoch:5 step:1096 loss:1.360580325126648
+2022/02/27 20:06:55 - INFO - src.utils - epoch:5 step:1098 loss:1.3692750930786133
+2022/02/27 20:06:55 - INFO - src.utils - epoch:5 step:1100 loss:1.3990305662155151
+2022/02/27 20:06:57 - INFO - src.utils - epoch:5 step:1100 acc:0.6158256880733946
+2022/02/27 20:06:57 - INFO - src.utils - epoch:5 step:1102 loss:1.3632044792175293
+2022/02/27 20:06:57 - INFO - src.utils - epoch:5 step:1104 loss:1.3837950229644775
+2022/02/27 20:06:57 - INFO - src.utils - epoch:5 step:1106 loss:1.3912334442138672
+2022/02/27 20:06:57 - INFO - src.utils - epoch:5 step:1108 loss:1.375359296798706
+2022/02/27 20:06:58 - INFO - src.utils - epoch:5 step:1110 loss:1.4032273292541504
+2022/02/27 20:06:58 - INFO - src.utils - epoch:5 step:1112 loss:1.3674461841583252
+2022/02/27 20:06:58 - INFO - src.utils - epoch:5 step:1114 loss:1.3706364631652832
+2022/02/27 20:06:58 - INFO - src.utils - epoch:5 step:1116 loss:1.3605520725250244
+2022/02/27 20:06:58 - INFO - src.utils - epoch:5 step:1118 loss:1.2906250953674316
+2022/02/27 20:06:58 - INFO - src.utils - epoch:5 step:1120 loss:1.3735344409942627
+2022/02/27 20:06:59 - INFO - src.utils - epoch:5 step:1122 loss:1.3398869037628174
+2022/02/27 20:06:59 - INFO - src.utils - epoch:5 step:1124 loss:1.3561829328536987
+2022/02/27 20:06:59 - INFO - src.utils - epoch:5 step:1126 loss:1.376272201538086
+2022/02/27 20:06:59 - INFO - src.utils - epoch:5 step:1128 loss:1.4010374546051025
+2022/02/27 20:06:59 - INFO - src.utils - epoch:5 step:1130 loss:1.4488937854766846
+2022/02/27 20:06:59 - INFO - src.utils - epoch:5 step:1132 loss:1.3667120933532715
+2022/02/27 20:07:00 - INFO - src.utils - epoch:5 step:1134 loss:1.3491299152374268
+2022/02/27 20:07:00 - INFO - src.utils - epoch:5 step:1136 loss:1.3828125
+2022/02/27 20:07:00 - INFO - src.utils - epoch:5 step:1138 loss:1.3700275421142578
+2022/02/27 20:07:00 - INFO - src.utils - epoch:5 step:1140 loss:1.3510100841522217
+2022/02/27 20:07:00 - INFO - src.utils - epoch:5 step:1142 loss:1.377001166343689
+2022/02/27 20:07:01 - INFO - src.utils - epoch:5 step:1144 loss:1.3523852825164795
+2022/02/27 20:07:01 - INFO - src.utils - epoch:5 step:1146 loss:1.3409298658370972
+2022/02/27 20:07:01 - INFO - src.utils - epoch:5 step:1148 loss:1.3704071044921875
+2022/02/27 20:07:01 - INFO - src.utils - epoch:5 step:1150 loss:1.3566412925720215
+2022/02/27 20:07:01 - INFO - src.utils - epoch:5 step:1152 loss:1.352005958557129
+2022/02/27 20:07:01 - INFO - src.utils - epoch:5 step:1154 loss:1.4023361206054688
+2022/02/27 20:07:02 - INFO - src.utils - epoch:5 step:1156 loss:1.3454172611236572
+2022/02/27 20:07:02 - INFO - src.utils - epoch:5 step:1158 loss:1.3905613422393799
+2022/02/27 20:07:02 - INFO - src.utils - epoch:5 step:1160 loss:1.332331895828247
+2022/02/27 20:07:02 - INFO - src.utils - epoch:5 step:1162 loss:1.3165054321289062
+2022/02/27 20:07:02 - INFO - src.utils - epoch:5 step:1164 loss:1.3393170833587646
+2022/02/27 20:07:03 - INFO - src.utils - epoch:5 step:1166 loss:1.359288215637207
+2022/02/27 20:07:03 - INFO - src.utils - epoch:5 step:1168 loss:1.3278748989105225
+2022/02/27 20:07:03 - INFO - src.utils - epoch:5 step:1170 loss:1.3884844779968262
+2022/02/27 20:07:03 - INFO - src.utils - epoch:5 step:1172 loss:1.404942512512207
+2022/02/27 20:07:03 - INFO - src.utils - epoch:5 step:1174 loss:1.377127766609192
+2022/02/27 20:07:04 - INFO - src.utils - epoch:5 step:1176 loss:1.3787524700164795
+2022/02/27 20:07:04 - INFO - src.utils - epoch:5 step:1178 loss:1.3407950401306152
+2022/02/27 20:07:04 - INFO - src.utils - epoch:5 step:1180 loss:1.3443939685821533
+2022/02/27 20:07:04 - INFO - src.utils - epoch:5 step:1182 loss:1.4029202461242676
+2022/02/27 20:07:04 - INFO - src.utils - epoch:5 step:1184 loss:1.416135311126709
+2022/02/27 20:07:05 - INFO - src.utils - epoch:5 step:1186 loss:1.362598180770874
+2022/02/27 20:07:05 - INFO - src.utils - epoch:5 step:1188 loss:1.3830125331878662
+2022/02/27 20:07:05 - INFO - src.utils - epoch:5 step:1190 loss:1.408345341682434
+2022/02/27 20:07:05 - INFO - src.utils - epoch:5 step:1192 loss:1.3412986993789673
+2022/02/27 20:07:05 - INFO - src.utils - epoch:5 step:1194 loss:1.3238283395767212
+2022/02/27 20:07:06 - INFO - src.utils - epoch:5 step:1196 loss:1.3621256351470947
+2022/02/27 20:07:06 - INFO - src.utils - epoch:5 step:1198 loss:1.3613276481628418
+2022/02/27 20:07:06 - INFO - src.utils - epoch:5 step:1200 loss:1.404068946838379
+2022/02/27 20:07:07 - INFO - src.utils - epoch:5 step:1200 acc:0.6158256880733946
+2022/02/27 20:07:08 - INFO - src.utils - epoch:5 step:1202 loss:1.3976366519927979
+2022/02/27 20:07:08 - INFO - src.utils - epoch:5 step:1204 loss:1.345484733581543
+2022/02/27 20:07:08 - INFO - src.utils - epoch:5 step:1206 loss:1.3096740245819092
+2022/02/27 20:07:08 - INFO - src.utils - epoch:5 step:1208 loss:1.3746869564056396
+2022/02/27 20:07:08 - INFO - src.utils - epoch:5 step:1210 loss:1.4205737113952637
+2022/02/27 20:07:08 - INFO - src.utils - epoch:5 step:1212 loss:1.320134162902832
+2022/02/27 20:07:09 - INFO - src.utils - epoch:5 step:1214 loss:1.3787751197814941
+2022/02/27 20:07:09 - INFO - src.utils - epoch:5 step:1216 loss:1.3796653747558594
+2022/02/27 20:07:09 - INFO - src.utils - epoch:5 step:1218 loss:1.403870940208435
+2022/02/27 20:07:09 - INFO - src.utils - epoch:5 step:1220 loss:1.3581743240356445
+2022/02/27 20:07:09 - INFO - src.utils - epoch:5 step:1222 loss:1.3411028385162354
+2022/02/27 20:07:10 - INFO - src.utils - epoch:5 step:1224 loss:1.3879141807556152
+2022/02/27 20:07:10 - INFO - src.utils - epoch:5 step:1226 loss:1.4174107313156128
+2022/02/27 20:07:10 - INFO - src.utils - epoch:5 step:1228 loss:1.393705129623413
+2022/02/27 20:07:10 - INFO - src.utils - epoch:5 step:1230 loss:1.3884711265563965
+2022/02/27 20:07:10 - INFO - src.utils - epoch:5 step:1232 loss:1.3647319078445435
+2022/02/27 20:07:10 - INFO - src.utils - epoch:5 step:1234 loss:1.414494276046753
+2022/02/27 20:07:11 - INFO - src.utils - epoch:5 step:1236 loss:1.3477544784545898
+2022/02/27 20:07:11 - INFO - src.utils - epoch:5 step:1238 loss:1.3480641841888428
+2022/02/27 20:07:11 - INFO - src.utils - epoch:5 step:1240 loss:1.3421387672424316
+2022/02/27 20:07:11 - INFO - src.utils - epoch:5 step:1242 loss:1.3991550207138062
+2022/02/27 20:07:11 - INFO - src.utils - epoch:5 step:1244 loss:1.3903143405914307
+2022/02/27 20:07:12 - INFO - src.utils - epoch:5 step:1246 loss:1.366215705871582
+2022/02/27 20:07:12 - INFO - src.utils - epoch:5 step:1248 loss:1.3282514810562134
+2022/02/27 20:07:12 - INFO - src.utils - epoch:5 step:1250 loss:1.3675808906555176
+2022/02/27 20:07:12 - INFO - src.utils - epoch:5 step:1252 loss:1.3960144519805908
+2022/02/27 20:07:12 - INFO - src.utils - epoch:5 step:1254 loss:1.309631586074829
+2022/02/27 20:07:13 - INFO - src.utils - epoch:5 step:1256 loss:1.366814136505127
+2022/02/27 20:07:13 - INFO - src.utils - epoch:5 step:1258 loss:1.3608527183532715
+2022/02/27 20:07:13 - INFO - src.utils - epoch:5 step:1260 loss:1.3674588203430176
+2022/02/27 20:07:13 - INFO - src.utils - epoch:5 step:1262 loss:1.3950849771499634
+2022/02/27 20:07:13 - INFO - src.utils - epoch:5 step:1264 loss:1.351130723953247
+2022/02/27 20:07:14 - INFO - src.utils - epoch:5 step:1266 loss:1.3689088821411133
+2022/02/27 20:07:14 - INFO - src.utils - epoch:5 step:1268 loss:1.3443330526351929
+2022/02/27 20:07:14 - INFO - src.utils - epoch:5 step:1270 loss:1.3707444667816162
+2022/02/27 20:07:14 - INFO - src.utils - epoch:5 step:1272 loss:1.3460283279418945
+2022/02/27 20:07:14 - INFO - src.utils - epoch:5 step:1274 loss:1.3362935781478882
+2022/02/27 20:07:15 - INFO - src.utils - epoch:5 step:1276 loss:1.3564002513885498
+2022/02/27 20:07:15 - INFO - src.utils - epoch:5 step:1278 loss:1.391292929649353
+2022/02/27 20:07:15 - INFO - src.utils - epoch:5 step:1280 loss:1.379752516746521
+2022/02/27 20:07:15 - INFO - src.utils - epoch:5 step:1282 loss:1.3655383586883545
+2022/02/27 20:07:15 - INFO - src.utils - epoch:5 step:1284 loss:1.3795362710952759
+2022/02/27 20:07:16 - INFO - src.utils - epoch:5 step:1286 loss:1.3924953937530518
+2022/02/27 20:07:16 - INFO - src.utils - epoch:5 step:1288 loss:1.3968923091888428
+2022/02/27 20:07:16 - INFO - src.utils - epoch:5 step:1290 loss:1.36609947681427
+2022/02/27 20:07:16 - INFO - src.utils - epoch:5 step:1292 loss:1.360452651977539
+2022/02/27 20:07:16 - INFO - src.utils - epoch:5 step:1294 loss:1.3561054468154907
+2022/02/27 20:07:16 - INFO - src.utils - epoch:5 step:1296 loss:1.3875104188919067
+2022/02/27 20:07:17 - INFO - src.utils - epoch:5 step:1298 loss:1.3550670146942139
+2022/02/27 20:07:17 - INFO - src.utils - epoch:5 step:1300 loss:1.3729586601257324
+2022/02/27 20:07:18 - INFO - src.utils - epoch:5 step:1300 acc:0.6158256880733946
+2022/02/27 20:07:18 - INFO - src.utils - epoch:6 step:1302 loss:0.680893063545227
+2022/02/27 20:07:19 - INFO - src.utils - epoch:6 step:1304 loss:1.410994529724121
+2022/02/27 20:07:19 - INFO - src.utils - epoch:6 step:1306 loss:1.394804835319519
+2022/02/27 20:07:19 - INFO - src.utils - epoch:6 step:1308 loss:1.3898156881332397
+2022/02/27 20:07:19 - INFO - src.utils - epoch:6 step:1310 loss:1.3871573209762573
+2022/02/27 20:07:19 - INFO - src.utils - epoch:6 step:1312 loss:1.3915009498596191
+2022/02/27 20:07:19 - INFO - src.utils - epoch:6 step:1314 loss:1.3854691982269287
+2022/02/27 20:07:20 - INFO - src.utils - epoch:6 step:1316 loss:1.314699649810791
+2022/02/27 20:07:20 - INFO - src.utils - epoch:6 step:1318 loss:1.396749496459961
+2022/02/27 20:07:20 - INFO - src.utils - epoch:6 step:1320 loss:1.3925132751464844
+2022/02/27 20:07:20 - INFO - src.utils - epoch:6 step:1322 loss:1.356547236442566
+2022/02/27 20:07:20 - INFO - src.utils - epoch:6 step:1324 loss:1.3615169525146484
+2022/02/27 20:07:21 - INFO - src.utils - epoch:6 step:1326 loss:1.3357512950897217
+2022/02/27 20:07:21 - INFO - src.utils - epoch:6 step:1328 loss:1.3580414056777954
+2022/02/27 20:07:21 - INFO - src.utils - epoch:6 step:1330 loss:1.3982768058776855
+2022/02/27 20:07:21 - INFO - src.utils - epoch:6 step:1332 loss:1.3894286155700684
+2022/02/27 20:07:21 - INFO - src.utils - epoch:6 step:1334 loss:1.3262310028076172
+2022/02/27 20:07:21 - INFO - src.utils - epoch:6 step:1336 loss:1.448613166809082
+2022/02/27 20:07:22 - INFO - src.utils - epoch:6 step:1338 loss:1.3933038711547852
+2022/02/27 20:07:22 - INFO - src.utils - epoch:6 step:1340 loss:1.4052765369415283
+2022/02/27 20:07:22 - INFO - src.utils - epoch:6 step:1342 loss:1.350435733795166
+2022/02/27 20:07:22 - INFO - src.utils - epoch:6 step:1344 loss:1.3662877082824707
+2022/02/27 20:07:22 - INFO - src.utils - epoch:6 step:1346 loss:1.3806995153427124
+2022/02/27 20:07:22 - INFO - src.utils - epoch:6 step:1348 loss:1.350793480873108
+2022/02/27 20:07:23 - INFO - src.utils - epoch:6 step:1350 loss:1.3932092189788818
+2022/02/27 20:07:23 - INFO - src.utils - epoch:6 step:1352 loss:1.352365255355835
+2022/02/27 20:07:23 - INFO - src.utils - epoch:6 step:1354 loss:1.3477822542190552
+2022/02/27 20:07:23 - INFO - src.utils - epoch:6 step:1356 loss:1.3464288711547852
+2022/02/27 20:07:23 - INFO - src.utils - epoch:6 step:1358 loss:1.3711135387420654
+2022/02/27 20:07:24 - INFO - src.utils - epoch:6 step:1360 loss:1.364915370941162
+2022/02/27 20:07:24 - INFO - src.utils - epoch:6 step:1362 loss:1.3315116167068481
+2022/02/27 20:07:24 - INFO - src.utils - epoch:6 step:1364 loss:1.4231888055801392
+2022/02/27 20:07:24 - INFO - src.utils - epoch:6 step:1366 loss:1.3322579860687256
+2022/02/27 20:07:24 - INFO - src.utils - epoch:6 step:1368 loss:1.4036290645599365
+2022/02/27 20:07:24 - INFO - src.utils - epoch:6 step:1370 loss:1.3169697523117065
+2022/02/27 20:07:25 - INFO - src.utils - epoch:6 step:1372 loss:1.3130161762237549
+2022/02/27 20:07:25 - INFO - src.utils - epoch:6 step:1374 loss:1.3600938320159912
+2022/02/27 20:07:25 - INFO - src.utils - epoch:6 step:1376 loss:1.4171154499053955
+2022/02/27 20:07:25 - INFO - src.utils - epoch:6 step:1378 loss:1.3432037830352783
+2022/02/27 20:07:25 - INFO - src.utils - epoch:6 step:1380 loss:1.3992347717285156
+2022/02/27 20:07:25 - INFO - src.utils - epoch:6 step:1382 loss:1.352553129196167
+2022/02/27 20:07:26 - INFO - src.utils - epoch:6 step:1384 loss:1.4178543090820312
+2022/02/27 20:07:26 - INFO - src.utils - epoch:6 step:1386 loss:1.347121238708496
+2022/02/27 20:07:26 - INFO - src.utils - epoch:6 step:1388 loss:1.379974126815796
+2022/02/27 20:07:26 - INFO - src.utils - epoch:6 step:1390 loss:1.3309948444366455
+2022/02/27 20:07:26 - INFO - src.utils - epoch:6 step:1392 loss:1.3721768856048584
+2022/02/27 20:07:27 - INFO - src.utils - epoch:6 step:1394 loss:1.3586221933364868
+2022/02/27 20:07:27 - INFO - src.utils - epoch:6 step:1396 loss:1.3521983623504639
+2022/02/27 20:07:27 - INFO - src.utils - epoch:6 step:1398 loss:1.3600988388061523
+2022/02/27 20:07:27 - INFO - src.utils - epoch:6 step:1400 loss:1.3555612564086914
+2022/02/27 20:07:28 - INFO - src.utils - epoch:6 step:1400 acc:0.6158256880733946
+2022/02/27 20:07:29 - INFO - src.utils - epoch:6 step:1402 loss:1.35677170753479
+2022/02/27 20:07:29 - INFO - src.utils - epoch:6 step:1404 loss:1.339001178741455
+2022/02/27 20:07:29 - INFO - src.utils - epoch:6 step:1406 loss:1.3656957149505615
+2022/02/27 20:07:29 - INFO - src.utils - epoch:6 step:1408 loss:1.428856372833252
+2022/02/27 20:07:29 - INFO - src.utils - epoch:6 step:1410 loss:1.3651520013809204
+2022/02/27 20:07:29 - INFO - src.utils - epoch:6 step:1412 loss:1.3897731304168701
+2022/02/27 20:07:30 - INFO - src.utils - epoch:6 step:1414 loss:1.3930585384368896
+2022/02/27 20:07:30 - INFO - src.utils - epoch:6 step:1416 loss:1.335608720779419
+2022/02/27 20:07:30 - INFO - src.utils - epoch:6 step:1418 loss:1.3109970092773438
+2022/02/27 20:07:30 - INFO - src.utils - epoch:6 step:1420 loss:1.411870002746582
+2022/02/27 20:07:30 - INFO - src.utils - epoch:6 step:1422 loss:1.399157166481018
+2022/02/27 20:07:31 - INFO - src.utils - epoch:6 step:1424 loss:1.3505473136901855
+2022/02/27 20:07:31 - INFO - src.utils - epoch:6 step:1426 loss:1.390905737876892
+2022/02/27 20:07:31 - INFO - src.utils - epoch:6 step:1428 loss:1.3543376922607422
+2022/02/27 20:07:31 - INFO - src.utils - epoch:6 step:1430 loss:1.3836232423782349
+2022/02/27 20:07:31 - INFO - src.utils - epoch:6 step:1432 loss:1.3984642028808594
+2022/02/27 20:07:31 - INFO - src.utils - epoch:6 step:1434 loss:1.3574693202972412
+2022/02/27 20:07:32 - INFO - src.utils - epoch:6 step:1436 loss:1.3553729057312012
+2022/02/27 20:07:32 - INFO - src.utils - epoch:6 step:1438 loss:1.3491696119308472
+2022/02/27 20:07:32 - INFO - src.utils - epoch:6 step:1440 loss:1.3447630405426025
+2022/02/27 20:07:32 - INFO - src.utils - epoch:6 step:1442 loss:1.342972993850708
+2022/02/27 20:07:32 - INFO - src.utils - epoch:6 step:1444 loss:1.3542934656143188
+2022/02/27 20:07:33 - INFO - src.utils - epoch:6 step:1446 loss:1.4035896062850952
+2022/02/27 20:07:33 - INFO - src.utils - epoch:6 step:1448 loss:1.3906476497650146
+2022/02/27 20:07:33 - INFO - src.utils - epoch:6 step:1450 loss:1.336167812347412
+2022/02/27 20:07:33 - INFO - src.utils - epoch:6 step:1452 loss:1.348475694656372
+2022/02/27 20:07:33 - INFO - src.utils - epoch:6 step:1454 loss:1.3725624084472656
+2022/02/27 20:07:33 - INFO - src.utils - epoch:6 step:1456 loss:1.4030214548110962
+2022/02/27 20:07:34 - INFO - src.utils - epoch:6 step:1458 loss:1.3331125974655151
+2022/02/27 20:07:34 - INFO - src.utils - epoch:6 step:1460 loss:1.353127360343933
+2022/02/27 20:07:34 - INFO - src.utils - epoch:6 step:1462 loss:1.3857463598251343
+2022/02/27 20:07:34 - INFO - src.utils - epoch:6 step:1464 loss:1.366254448890686
+2022/02/27 20:07:34 - INFO - src.utils - epoch:6 step:1466 loss:1.3420090675354004
+2022/02/27 20:07:35 - INFO - src.utils - epoch:6 step:1468 loss:1.3150525093078613
+2022/02/27 20:07:35 - INFO - src.utils - epoch:6 step:1470 loss:1.3750015497207642
+2022/02/27 20:07:35 - INFO - src.utils - epoch:6 step:1472 loss:1.3440124988555908
+2022/02/27 20:07:35 - INFO - src.utils - epoch:6 step:1474 loss:1.4054036140441895
+2022/02/27 20:07:35 - INFO - src.utils - epoch:6 step:1476 loss:1.3775984048843384
+2022/02/27 20:07:36 - INFO - src.utils - epoch:6 step:1478 loss:1.3901780843734741
+2022/02/27 20:07:36 - INFO - src.utils - epoch:6 step:1480 loss:1.4251238107681274
+2022/02/27 20:07:36 - INFO - src.utils - epoch:6 step:1482 loss:1.4254517555236816
+2022/02/27 20:07:36 - INFO - src.utils - epoch:6 step:1484 loss:1.3834797143936157
+2022/02/27 20:07:36 - INFO - src.utils - epoch:6 step:1486 loss:1.3470841646194458
+2022/02/27 20:07:37 - INFO - src.utils - epoch:6 step:1488 loss:1.3479281663894653
+2022/02/27 20:07:37 - INFO - src.utils - epoch:6 step:1490 loss:1.3576116561889648
+2022/02/27 20:07:37 - INFO - src.utils - epoch:6 step:1492 loss:1.3425372838974
+2022/02/27 20:07:37 - INFO - src.utils - epoch:6 step:1494 loss:1.4008185863494873
+2022/02/27 20:07:37 - INFO - src.utils - epoch:6 step:1496 loss:1.4103184938430786
+2022/02/27 20:07:38 - INFO - src.utils - epoch:6 step:1498 loss:1.4489281177520752
+2022/02/27 20:07:38 - INFO - src.utils - epoch:6 step:1500 loss:1.402030348777771
+2022/02/27 20:07:39 - INFO - src.utils - epoch:6 step:1500 acc:0.6158256880733946
+2022/02/27 20:07:39 - INFO - src.utils - epoch:6 step:1502 loss:1.324065923690796
+2022/02/27 20:07:40 - INFO - src.utils - epoch:6 step:1504 loss:1.388490915298462
+2022/02/27 20:07:40 - INFO - src.utils - epoch:6 step:1506 loss:1.3486930131912231
+2022/02/27 20:07:40 - INFO - src.utils - epoch:6 step:1508 loss:1.3586176633834839
+2022/02/27 20:07:40 - INFO - src.utils - epoch:6 step:1510 loss:1.3880863189697266
+2022/02/27 20:07:40 - INFO - src.utils - epoch:6 step:1512 loss:1.3518097400665283
+2022/02/27 20:07:40 - INFO - src.utils - epoch:6 step:1514 loss:1.3555009365081787
+2022/02/27 20:07:41 - INFO - src.utils - epoch:6 step:1516 loss:1.3250057697296143
+2022/02/27 20:07:41 - INFO - src.utils - epoch:6 step:1518 loss:1.3828659057617188
+2022/02/27 20:07:41 - INFO - src.utils - epoch:7 step:1520 loss:1.299834966659546
+2022/02/27 20:07:41 - INFO - src.utils - epoch:7 step:1522 loss:1.3496917486190796
+2022/02/27 20:07:41 - INFO - src.utils - epoch:7 step:1524 loss:1.34561026096344
+2022/02/27 20:07:41 - INFO - src.utils - epoch:7 step:1526 loss:1.3545591831207275
+2022/02/27 20:07:42 - INFO - src.utils - epoch:7 step:1528 loss:1.3489446640014648
+2022/02/27 20:07:42 - INFO - src.utils - epoch:7 step:1530 loss:1.3891587257385254
+2022/02/27 20:07:42 - INFO - src.utils - epoch:7 step:1532 loss:1.3525974750518799
+2022/02/27 20:07:42 - INFO - src.utils - epoch:7 step:1534 loss:1.352341651916504
+2022/02/27 20:07:42 - INFO - src.utils - epoch:7 step:1536 loss:1.374837875366211
+2022/02/27 20:07:42 - INFO - src.utils - epoch:7 step:1538 loss:1.3797389268875122
+2022/02/27 20:07:43 - INFO - src.utils - epoch:7 step:1540 loss:1.3962117433547974
+2022/02/27 20:07:43 - INFO - src.utils - epoch:7 step:1542 loss:1.3670355081558228
+2022/02/27 20:07:43 - INFO - src.utils - epoch:7 step:1544 loss:1.3714762926101685
+2022/02/27 20:07:43 - INFO - src.utils - epoch:7 step:1546 loss:1.387420892715454
+2022/02/27 20:07:43 - INFO - src.utils - epoch:7 step:1548 loss:1.3628902435302734
+2022/02/27 20:07:43 - INFO - src.utils - epoch:7 step:1550 loss:1.3465924263000488
+2022/02/27 20:07:44 - INFO - src.utils - epoch:7 step:1552 loss:1.4027318954467773
+2022/02/27 20:07:44 - INFO - src.utils - epoch:7 step:1554 loss:1.3655519485473633
+2022/02/27 20:07:44 - INFO - src.utils - epoch:7 step:1556 loss:1.351057529449463
+2022/02/27 20:07:44 - INFO - src.utils - epoch:7 step:1558 loss:1.3736422061920166
+2022/02/27 20:07:44 - INFO - src.utils - epoch:7 step:1560 loss:1.3642817735671997
+2022/02/27 20:07:45 - INFO - src.utils - epoch:7 step:1562 loss:1.3869740962982178
+2022/02/27 20:07:45 - INFO - src.utils - epoch:7 step:1564 loss:1.3888438940048218
+2022/02/27 20:07:45 - INFO - src.utils - epoch:7 step:1566 loss:1.3427643775939941
+2022/02/27 20:07:45 - INFO - src.utils - epoch:7 step:1568 loss:1.4109501838684082
+2022/02/27 20:07:45 - INFO - src.utils - epoch:7 step:1570 loss:1.3670356273651123
+2022/02/27 20:07:45 - INFO - src.utils - epoch:7 step:1572 loss:1.3875150680541992
+2022/02/27 20:07:46 - INFO - src.utils - epoch:7 step:1574 loss:1.3916122913360596
+2022/02/27 20:07:46 - INFO - src.utils - epoch:7 step:1576 loss:1.3709803819656372
+2022/02/27 20:07:46 - INFO - src.utils - epoch:7 step:1578 loss:1.3634417057037354
+2022/02/27 20:07:46 - INFO - src.utils - epoch:7 step:1580 loss:1.352950930595398
+2022/02/27 20:07:46 - INFO - src.utils - epoch:7 step:1582 loss:1.3356397151947021
+2022/02/27 20:07:46 - INFO - src.utils - epoch:7 step:1584 loss:1.3341403007507324
+2022/02/27 20:07:47 - INFO - src.utils - epoch:7 step:1586 loss:1.3465380668640137
+2022/02/27 20:07:47 - INFO - src.utils - epoch:7 step:1588 loss:1.388897180557251
+2022/02/27 20:07:47 - INFO - src.utils - epoch:7 step:1590 loss:1.4280133247375488
+2022/02/27 20:07:47 - INFO - src.utils - epoch:7 step:1592 loss:1.3980931043624878
+2022/02/27 20:07:47 - INFO - src.utils - epoch:7 step:1594 loss:1.3611211776733398
+2022/02/27 20:07:47 - INFO - src.utils - epoch:7 step:1596 loss:1.407881498336792
+2022/02/27 20:07:48 - INFO - src.utils - epoch:7 step:1598 loss:1.3536807298660278
+2022/02/27 20:07:48 - INFO - src.utils - epoch:7 step:1600 loss:1.3406610488891602
+2022/02/27 20:07:49 - INFO - src.utils - epoch:7 step:1600 acc:0.6158256880733946
+2022/02/27 20:07:49 - INFO - src.utils - epoch:7 step:1602 loss:1.3335998058319092
+2022/02/27 20:07:50 - INFO - src.utils - epoch:7 step:1604 loss:1.3948979377746582
+2022/02/27 20:07:50 - INFO - src.utils - epoch:7 step:1606 loss:1.4040536880493164
+2022/02/27 20:07:50 - INFO - src.utils - epoch:7 step:1608 loss:1.364039421081543
+2022/02/27 20:07:50 - INFO - src.utils - epoch:7 step:1610 loss:1.3547979593276978
+2022/02/27 20:07:50 - INFO - src.utils - epoch:7 step:1612 loss:1.3436741828918457
+2022/02/27 20:07:50 - INFO - src.utils - epoch:7 step:1614 loss:1.3900597095489502
+2022/02/27 20:07:51 - INFO - src.utils - epoch:7 step:1616 loss:1.3711987733840942
+2022/02/27 20:07:51 - INFO - src.utils - epoch:7 step:1618 loss:1.398201584815979
+2022/02/27 20:07:51 - INFO - src.utils - epoch:7 step:1620 loss:1.3593394756317139
+2022/02/27 20:07:51 - INFO - src.utils - epoch:7 step:1622 loss:1.4098927974700928
+2022/02/27 20:07:51 - INFO - src.utils - epoch:7 step:1624 loss:1.3845105171203613
+2022/02/27 20:07:51 - INFO - src.utils - epoch:7 step:1626 loss:1.3466403484344482
+2022/02/27 20:07:52 - INFO - src.utils - epoch:7 step:1628 loss:1.3902878761291504
+2022/02/27 20:07:52 - INFO - src.utils - epoch:7 step:1630 loss:1.4220168590545654
+2022/02/27 20:07:52 - INFO - src.utils - epoch:7 step:1632 loss:1.3812323808670044
+2022/02/27 20:07:52 - INFO - src.utils - epoch:7 step:1634 loss:1.3883953094482422
+2022/02/27 20:07:52 - INFO - src.utils - epoch:7 step:1636 loss:1.368783712387085
+2022/02/27 20:07:53 - INFO - src.utils - epoch:7 step:1638 loss:1.35599684715271
+2022/02/27 20:07:53 - INFO - src.utils - epoch:7 step:1640 loss:1.405996561050415
+2022/02/27 20:07:53 - INFO - src.utils - epoch:7 step:1642 loss:1.3301678895950317
+2022/02/27 20:07:53 - INFO - src.utils - epoch:7 step:1644 loss:1.4337812662124634
+2022/02/27 20:07:53 - INFO - src.utils - epoch:7 step:1646 loss:1.374967098236084
+2022/02/27 20:07:53 - INFO - src.utils - epoch:7 step:1648 loss:1.4038972854614258
+2022/02/27 20:07:54 - INFO - src.utils - epoch:7 step:1650 loss:1.3750944137573242
+2022/02/27 20:07:54 - INFO - src.utils - epoch:7 step:1652 loss:1.413945198059082
+2022/02/27 20:07:54 - INFO - src.utils - epoch:7 step:1654 loss:1.3760895729064941
+2022/02/27 20:07:54 - INFO - src.utils - epoch:7 step:1656 loss:1.3909237384796143
+2022/02/27 20:07:54 - INFO - src.utils - epoch:7 step:1658 loss:1.305687427520752
+2022/02/27 20:07:54 - INFO - src.utils - epoch:7 step:1660 loss:1.381829857826233
+2022/02/27 20:07:55 - INFO - src.utils - epoch:7 step:1662 loss:1.3911027908325195
+2022/02/27 20:07:55 - INFO - src.utils - epoch:7 step:1664 loss:1.380018949508667
+2022/02/27 20:07:55 - INFO - src.utils - epoch:7 step:1666 loss:1.4111182689666748
+2022/02/27 20:07:55 - INFO - src.utils - epoch:7 step:1668 loss:1.3898593187332153
+2022/02/27 20:07:55 - INFO - src.utils - epoch:7 step:1670 loss:1.4084315299987793
+2022/02/27 20:07:55 - INFO - src.utils - epoch:7 step:1672 loss:1.425289273262024
+2022/02/27 20:07:56 - INFO - src.utils - epoch:7 step:1674 loss:1.407645583152771
+2022/02/27 20:07:56 - INFO - src.utils - epoch:7 step:1676 loss:1.32767915725708
+2022/02/27 20:07:56 - INFO - src.utils - epoch:7 step:1678 loss:1.3765102624893188
+2022/02/27 20:07:56 - INFO - src.utils - epoch:7 step:1680 loss:1.418438196182251
+2022/02/27 20:07:56 - INFO - src.utils - epoch:7 step:1682 loss:1.3687714338302612
+2022/02/27 20:07:57 - INFO - src.utils - epoch:7 step:1684 loss:1.3783795833587646
+2022/02/27 20:07:57 - INFO - src.utils - epoch:7 step:1686 loss:1.3435167074203491
+2022/02/27 20:07:57 - INFO - src.utils - epoch:7 step:1688 loss:1.3273954391479492
+2022/02/27 20:07:57 - INFO - src.utils - epoch:7 step:1690 loss:1.3480167388916016
+2022/02/27 20:07:57 - INFO - src.utils - epoch:7 step:1692 loss:1.3211679458618164
+2022/02/27 20:07:57 - INFO - src.utils - epoch:7 step:1694 loss:1.3611654043197632
+2022/02/27 20:07:58 - INFO - src.utils - epoch:7 step:1696 loss:1.3939361572265625
+2022/02/27 20:07:58 - INFO - src.utils - epoch:7 step:1698 loss:1.4004943370819092
+2022/02/27 20:07:58 - INFO - src.utils - epoch:7 step:1700 loss:1.3630951642990112
+2022/02/27 20:07:59 - INFO - src.utils - epoch:7 step:1700 acc:0.6158256880733946
+2022/02/27 20:07:59 - INFO - src.utils - epoch:7 step:1702 loss:1.373401403427124
+2022/02/27 20:08:00 - INFO - src.utils - epoch:7 step:1704 loss:1.406753659248352
+2022/02/27 20:08:00 - INFO - src.utils - epoch:7 step:1706 loss:1.4184441566467285
+2022/02/27 20:08:00 - INFO - src.utils - epoch:7 step:1708 loss:1.3730659484863281
+2022/02/27 20:08:00 - INFO - src.utils - epoch:7 step:1710 loss:1.3809030055999756
+2022/02/27 20:08:00 - INFO - src.utils - epoch:7 step:1712 loss:1.4288984537124634
+2022/02/27 20:08:01 - INFO - src.utils - epoch:7 step:1714 loss:1.3966673612594604
+2022/02/27 20:08:01 - INFO - src.utils - epoch:7 step:1716 loss:1.399593472480774
+2022/02/27 20:08:01 - INFO - src.utils - epoch:7 step:1718 loss:1.3808608055114746
+2022/02/27 20:08:01 - INFO - src.utils - epoch:7 step:1720 loss:1.338022232055664
+2022/02/27 20:08:01 - INFO - src.utils - epoch:7 step:1722 loss:1.4012969732284546
+2022/02/27 20:08:01 - INFO - src.utils - epoch:7 step:1724 loss:1.3547499179840088
+2022/02/27 20:08:02 - INFO - src.utils - epoch:7 step:1726 loss:1.3772881031036377
+2022/02/27 20:08:02 - INFO - src.utils - epoch:7 step:1728 loss:1.3906328678131104
+2022/02/27 20:08:02 - INFO - src.utils - epoch:7 step:1730 loss:1.4245243072509766
+2022/02/27 20:08:02 - INFO - src.utils - epoch:7 step:1732 loss:1.3820744752883911
+2022/02/27 20:08:02 - INFO - src.utils - epoch:7 step:1734 loss:1.355000615119934
+2022/02/27 20:08:02 - INFO - src.utils - epoch:8 step:1736 loss:0.6898260712623596
+2022/02/27 20:08:03 - INFO - src.utils - epoch:8 step:1738 loss:1.39805269241333
+2022/02/27 20:08:03 - INFO - src.utils - epoch:8 step:1740 loss:1.3726078271865845
+2022/02/27 20:08:03 - INFO - src.utils - epoch:8 step:1742 loss:1.4034934043884277
+2022/02/27 20:08:03 - INFO - src.utils - epoch:8 step:1744 loss:1.3938151597976685
+2022/02/27 20:08:03 - INFO - src.utils - epoch:8 step:1746 loss:1.4389102458953857
+2022/02/27 20:08:03 - INFO - src.utils - epoch:8 step:1748 loss:1.3461570739746094
+2022/02/27 20:08:04 - INFO - src.utils - epoch:8 step:1750 loss:1.3241084814071655
+2022/02/27 20:08:04 - INFO - src.utils - epoch:8 step:1752 loss:1.4209909439086914
+2022/02/27 20:08:04 - INFO - src.utils - epoch:8 step:1754 loss:1.370098352432251
+2022/02/27 20:08:04 - INFO - src.utils - epoch:8 step:1756 loss:1.3946475982666016
+2022/02/27 20:08:04 - INFO - src.utils - epoch:8 step:1758 loss:1.3970226049423218
+2022/02/27 20:08:04 - INFO - src.utils - epoch:8 step:1760 loss:1.3519389629364014
+2022/02/27 20:08:05 - INFO - src.utils - epoch:8 step:1762 loss:1.3771090507507324
+2022/02/27 20:08:05 - INFO - src.utils - epoch:8 step:1764 loss:1.3484759330749512
+2022/02/27 20:08:05 - INFO - src.utils - epoch:8 step:1766 loss:1.3660128116607666
+2022/02/27 20:08:05 - INFO - src.utils - epoch:8 step:1768 loss:1.3830838203430176
+2022/02/27 20:08:05 - INFO - src.utils - epoch:8 step:1770 loss:1.3855926990509033
+2022/02/27 20:08:06 - INFO - src.utils - epoch:8 step:1772 loss:1.394675612449646
+2022/02/27 20:08:06 - INFO - src.utils - epoch:8 step:1774 loss:1.395552158355713
+2022/02/27 20:08:06 - INFO - src.utils - epoch:8 step:1776 loss:1.389782428741455
+2022/02/27 20:08:06 - INFO - src.utils - epoch:8 step:1778 loss:1.4321479797363281
+2022/02/27 20:08:06 - INFO - src.utils - epoch:8 step:1780 loss:1.377582311630249
+2022/02/27 20:08:06 - INFO - src.utils - epoch:8 step:1782 loss:1.3581942319869995
+2022/02/27 20:08:07 - INFO - src.utils - epoch:8 step:1784 loss:1.3860499858856201
+2022/02/27 20:08:07 - INFO - src.utils - epoch:8 step:1786 loss:1.3247253894805908
+2022/02/27 20:08:07 - INFO - src.utils - epoch:8 step:1788 loss:1.3312582969665527
+2022/02/27 20:08:07 - INFO - src.utils - epoch:8 step:1790 loss:1.3535034656524658
+2022/02/27 20:08:07 - INFO - src.utils - epoch:8 step:1792 loss:1.3865234851837158
+2022/02/27 20:08:08 - INFO - src.utils - epoch:8 step:1794 loss:1.353588342666626
+2022/02/27 20:08:08 - INFO - src.utils - epoch:8 step:1796 loss:1.4279015064239502
+2022/02/27 20:08:08 - INFO - src.utils - epoch:8 step:1798 loss:1.389967441558838
+2022/02/27 20:08:08 - INFO - src.utils - epoch:8 step:1800 loss:1.3571794033050537
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1800 acc:0.6158256880733946
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1802 loss:1.4280033111572266
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1804 loss:1.363938570022583
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1806 loss:1.4155389070510864
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1808 loss:1.3288098573684692
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1810 loss:1.3602051734924316
+2022/02/27 20:08:10 - INFO - src.utils - epoch:8 step:1812 loss:1.3732986450195312
+2022/02/27 20:08:11 - INFO - src.utils - epoch:8 step:1814 loss:1.376844882965088
+2022/02/27 20:08:11 - INFO - src.utils - epoch:8 step:1816 loss:1.3597893714904785
+2022/02/27 20:08:11 - INFO - src.utils - epoch:8 step:1818 loss:1.3188223838806152
+2022/02/27 20:08:11 - INFO - src.utils - epoch:8 step:1820 loss:1.3740837574005127
+2022/02/27 20:08:11 - INFO - src.utils - epoch:8 step:1822 loss:1.3594601154327393
+2022/02/27 20:08:12 - INFO - src.utils - epoch:8 step:1824 loss:1.4061689376831055
+2022/02/27 20:08:12 - INFO - src.utils - epoch:8 step:1826 loss:1.331335186958313
+2022/02/27 20:08:12 - INFO - src.utils - epoch:8 step:1828 loss:1.391486644744873
+2022/02/27 20:08:12 - INFO - src.utils - epoch:8 step:1830 loss:1.3486695289611816
+2022/02/27 20:08:12 - INFO - src.utils - epoch:8 step:1832 loss:1.3920233249664307
+2022/02/27 20:08:12 - INFO - src.utils - epoch:8 step:1834 loss:1.3712091445922852
+2022/02/27 20:08:13 - INFO - src.utils - epoch:8 step:1836 loss:1.3451133966445923
+2022/02/27 20:08:13 - INFO - src.utils - epoch:8 step:1838 loss:1.4002848863601685
+2022/02/27 20:08:13 - INFO - src.utils - epoch:8 step:1840 loss:1.3930137157440186
+2022/02/27 20:08:13 - INFO - src.utils - epoch:8 step:1842 loss:1.3729382753372192
+2022/02/27 20:08:13 - INFO - src.utils - epoch:8 step:1844 loss:1.3322041034698486
+2022/02/27 20:08:13 - INFO - src.utils - epoch:8 step:1846 loss:1.3566014766693115
+2022/02/27 20:08:14 - INFO - src.utils - epoch:8 step:1848 loss:1.3886138200759888
+2022/02/27 20:08:14 - INFO - src.utils - epoch:8 step:1850 loss:1.4085628986358643
+2022/02/27 20:08:14 - INFO - src.utils - epoch:8 step:1852 loss:1.3709559440612793
+2022/02/27 20:08:14 - INFO - src.utils - epoch:8 step:1854 loss:1.3745176792144775
+2022/02/27 20:08:14 - INFO - src.utils - epoch:8 step:1856 loss:1.4105539321899414
+2022/02/27 20:08:15 - INFO - src.utils - epoch:8 step:1858 loss:1.3500699996948242
+2022/02/27 20:08:15 - INFO - src.utils - epoch:8 step:1860 loss:1.387760877609253
+2022/02/27 20:08:15 - INFO - src.utils - epoch:8 step:1862 loss:1.372537612915039
+2022/02/27 20:08:15 - INFO - src.utils - epoch:8 step:1864 loss:1.3433613777160645
+2022/02/27 20:08:15 - INFO - src.utils - epoch:8 step:1866 loss:1.3738899230957031
+2022/02/27 20:08:15 - INFO - src.utils - epoch:8 step:1868 loss:1.3615041971206665
+2022/02/27 20:08:16 - INFO - src.utils - epoch:8 step:1870 loss:1.383299469947815
+2022/02/27 20:08:16 - INFO - src.utils - epoch:8 step:1872 loss:1.3829474449157715
+2022/02/27 20:08:16 - INFO - src.utils - epoch:8 step:1874 loss:1.4142255783081055
+2022/02/27 20:08:16 - INFO - src.utils - epoch:8 step:1876 loss:1.3586819171905518
+2022/02/27 20:08:16 - INFO - src.utils - epoch:8 step:1878 loss:1.3797041177749634
+2022/02/27 20:08:16 - INFO - src.utils - epoch:8 step:1880 loss:1.3403990268707275
+2022/02/27 20:08:17 - INFO - src.utils - epoch:8 step:1882 loss:1.3662450313568115
+2022/02/27 20:08:17 - INFO - src.utils - epoch:8 step:1884 loss:1.3877261877059937
+2022/02/27 20:08:17 - INFO - src.utils - epoch:8 step:1886 loss:1.3757014274597168
+2022/02/27 20:08:17 - INFO - src.utils - epoch:8 step:1888 loss:1.3613351583480835
+2022/02/27 20:08:17 - INFO - src.utils - epoch:8 step:1890 loss:1.3552800416946411
+2022/02/27 20:08:17 - INFO - src.utils - epoch:8 step:1892 loss:1.3519792556762695
+2022/02/27 20:08:18 - INFO - src.utils - epoch:8 step:1894 loss:1.3246865272521973
+2022/02/27 20:08:18 - INFO - src.utils - epoch:8 step:1896 loss:1.4149693250656128
+2022/02/27 20:08:18 - INFO - src.utils - epoch:8 step:1898 loss:1.368528962135315
+2022/02/27 20:08:18 - INFO - src.utils - epoch:8 step:1900 loss:1.365937352180481
+2022/02/27 20:08:20 - INFO - src.utils - epoch:8 step:1900 acc:0.6158256880733946
+2022/02/27 20:08:20 - INFO - src.utils - epoch:8 step:1902 loss:1.3645615577697754
+2022/02/27 20:08:20 - INFO - src.utils - epoch:8 step:1904 loss:1.3323785066604614
+2022/02/27 20:08:20 - INFO - src.utils - epoch:8 step:1906 loss:1.4046247005462646
+2022/02/27 20:08:20 - INFO - src.utils - epoch:8 step:1908 loss:1.3828678131103516
+2022/02/27 20:08:20 - INFO - src.utils - epoch:8 step:1910 loss:1.4008886814117432
+2022/02/27 20:08:21 - INFO - src.utils - epoch:8 step:1912 loss:1.314436912536621
+2022/02/27 20:08:21 - INFO - src.utils - epoch:8 step:1914 loss:1.374782681465149
+2022/02/27 20:08:21 - INFO - src.utils - epoch:8 step:1916 loss:1.3609248399734497
+2022/02/27 20:08:21 - INFO - src.utils - epoch:8 step:1918 loss:1.362316608428955
+2022/02/27 20:08:21 - INFO - src.utils - epoch:8 step:1920 loss:1.2958581447601318
+2022/02/27 20:08:21 - INFO - src.utils - epoch:8 step:1922 loss:1.3447120189666748
+2022/02/27 20:08:22 - INFO - src.utils - epoch:8 step:1924 loss:1.408929467201233
+2022/02/27 20:08:22 - INFO - src.utils - epoch:8 step:1926 loss:1.3559300899505615
+2022/02/27 20:08:22 - INFO - src.utils - epoch:8 step:1928 loss:1.3503921031951904
+2022/02/27 20:08:22 - INFO - src.utils - epoch:8 step:1930 loss:1.3646562099456787
+2022/02/27 20:08:22 - INFO - src.utils - epoch:8 step:1932 loss:1.425370454788208
+2022/02/27 20:08:22 - INFO - src.utils - epoch:8 step:1934 loss:1.38271164894104
+2022/02/27 20:08:23 - INFO - src.utils - epoch:8 step:1936 loss:1.3948960304260254
+2022/02/27 20:08:23 - INFO - src.utils - epoch:8 step:1938 loss:1.3890012502670288
+2022/02/27 20:08:23 - INFO - src.utils - epoch:8 step:1940 loss:1.3796536922454834
+2022/02/27 20:08:23 - INFO - src.utils - epoch:8 step:1942 loss:1.345630168914795
+2022/02/27 20:08:23 - INFO - src.utils - epoch:8 step:1944 loss:1.3656573295593262
+2022/02/27 20:08:24 - INFO - src.utils - epoch:8 step:1946 loss:1.3829114437103271
+2022/02/27 20:08:24 - INFO - src.utils - epoch:8 step:1948 loss:1.347774624824524
+2022/02/27 20:08:24 - INFO - src.utils - epoch:8 step:1950 loss:1.4450252056121826
+2022/02/27 20:08:24 - INFO - src.utils - epoch:8 step:1952 loss:1.2780094146728516
+2022/02/27 20:08:24 - INFO - src.utils - epoch:9 step:1954 loss:1.311223030090332
+2022/02/27 20:08:24 - INFO - src.utils - epoch:9 step:1956 loss:1.3776016235351562
+2022/02/27 20:08:25 - INFO - src.utils - epoch:9 step:1958 loss:1.4244641065597534
+2022/02/27 20:08:25 - INFO - src.utils - epoch:9 step:1960 loss:1.3775546550750732
+2022/02/27 20:08:25 - INFO - src.utils - epoch:9 step:1962 loss:1.3715420961380005
+2022/02/27 20:08:25 - INFO - src.utils - epoch:9 step:1964 loss:1.4087640047073364
+2022/02/27 20:08:25 - INFO - src.utils - epoch:9 step:1966 loss:1.358911156654358
+2022/02/27 20:08:25 - INFO - src.utils - epoch:9 step:1968 loss:1.3473188877105713
+2022/02/27 20:08:26 - INFO - src.utils - epoch:9 step:1970 loss:1.331064224243164
+2022/02/27 20:08:26 - INFO - src.utils - epoch:9 step:1972 loss:1.3776073455810547
+2022/02/27 20:08:26 - INFO - src.utils - epoch:9 step:1974 loss:1.3858704566955566
+2022/02/27 20:08:26 - INFO - src.utils - epoch:9 step:1976 loss:1.3115049600601196
+2022/02/27 20:08:26 - INFO - src.utils - epoch:9 step:1978 loss:1.3927879333496094
+2022/02/27 20:08:27 - INFO - src.utils - epoch:9 step:1980 loss:1.3522202968597412
+2022/02/27 20:08:27 - INFO - src.utils - epoch:9 step:1982 loss:1.3474929332733154
+2022/02/27 20:08:27 - INFO - src.utils - epoch:9 step:1984 loss:1.4108855724334717
+2022/02/27 20:08:27 - INFO - src.utils - epoch:9 step:1986 loss:1.3348193168640137
+2022/02/27 20:08:27 - INFO - src.utils - epoch:9 step:1988 loss:1.3882734775543213
+2022/02/27 20:08:28 - INFO - src.utils - epoch:9 step:1990 loss:1.4145294427871704
+2022/02/27 20:08:28 - INFO - src.utils - epoch:9 step:1992 loss:1.3876842260360718
+2022/02/27 20:08:28 - INFO - src.utils - epoch:9 step:1994 loss:1.4146122932434082
+2022/02/27 20:08:28 - INFO - src.utils - epoch:9 step:1996 loss:1.3547520637512207
+2022/02/27 20:08:28 - INFO - src.utils - epoch:9 step:1998 loss:1.3692519664764404
+2022/02/27 20:08:29 - INFO - src.utils - epoch:9 step:2000 loss:1.398205280303955
+2022/02/27 20:08:30 - INFO - src.utils - epoch:9 step:2000 acc:0.6158256880733946
+2022/02/27 20:08:30 - INFO - src.utils - epoch:9 step:2002 loss:1.3194947242736816
+2022/02/27 20:08:30 - INFO - src.utils - epoch:9 step:2004 loss:1.349587321281433
+2022/02/27 20:08:30 - INFO - src.utils - epoch:9 step:2006 loss:1.3865834474563599
+2022/02/27 20:08:31 - INFO - src.utils - epoch:9 step:2008 loss:1.3960384130477905
+2022/02/27 20:08:31 - INFO - src.utils - epoch:9 step:2010 loss:1.3252177238464355
+2022/02/27 20:08:31 - INFO - src.utils - epoch:9 step:2012 loss:1.417497158050537
+2022/02/27 20:08:31 - INFO - src.utils - epoch:9 step:2014 loss:1.3451199531555176
+2022/02/27 20:08:31 - INFO - src.utils - epoch:9 step:2016 loss:1.3961915969848633
+2022/02/27 20:08:32 - INFO - src.utils - epoch:9 step:2018 loss:1.347886085510254
+2022/02/27 20:08:32 - INFO - src.utils - epoch:9 step:2020 loss:1.3272967338562012
+2022/02/27 20:08:32 - INFO - src.utils - epoch:9 step:2022 loss:1.30488920211792
+2022/02/27 20:08:32 - INFO - src.utils - epoch:9 step:2024 loss:1.3523366451263428
+2022/02/27 20:08:32 - INFO - src.utils - epoch:9 step:2026 loss:1.3660311698913574
+2022/02/27 20:08:32 - INFO - src.utils - epoch:9 step:2028 loss:1.4049346446990967
+2022/02/27 20:08:33 - INFO - src.utils - epoch:9 step:2030 loss:1.3486301898956299
+2022/02/27 20:08:33 - INFO - src.utils - epoch:9 step:2032 loss:1.4572352170944214
+2022/02/27 20:08:33 - INFO - src.utils - epoch:9 step:2034 loss:1.37235689163208
+2022/02/27 20:08:33 - INFO - src.utils - epoch:9 step:2036 loss:1.3599551916122437
+2022/02/27 20:08:33 - INFO - src.utils - epoch:9 step:2038 loss:1.3827120065689087
+2022/02/27 20:08:34 - INFO - src.utils - epoch:9 step:2040 loss:1.4156187772750854
+2022/02/27 20:08:34 - INFO - src.utils - epoch:9 step:2042 loss:1.412703275680542
+2022/02/27 20:08:34 - INFO - src.utils - epoch:9 step:2044 loss:1.380284309387207
+2022/02/27 20:08:34 - INFO - src.utils - epoch:9 step:2046 loss:1.3843975067138672
+2022/02/27 20:08:34 - INFO - src.utils - epoch:9 step:2048 loss:1.3529924154281616
+2022/02/27 20:08:34 - INFO - src.utils - epoch:9 step:2050 loss:1.3845734596252441
+2022/02/27 20:08:35 - INFO - src.utils - epoch:9 step:2052 loss:1.4241217374801636
+2022/02/27 20:08:35 - INFO - src.utils - epoch:9 step:2054 loss:1.402174711227417
+2022/02/27 20:08:35 - INFO - src.utils - epoch:9 step:2056 loss:1.369560956954956
+2022/02/27 20:08:35 - INFO - src.utils - epoch:9 step:2058 loss:1.4235138893127441
+2022/02/27 20:08:35 - INFO - src.utils - epoch:9 step:2060 loss:1.3754897117614746
+2022/02/27 20:08:35 - INFO - src.utils - epoch:9 step:2062 loss:1.4133412837982178
+2022/02/27 20:08:36 - INFO - src.utils - epoch:9 step:2064 loss:1.3780335187911987
+2022/02/27 20:08:36 - INFO - src.utils - epoch:9 step:2066 loss:1.4001600742340088
+2022/02/27 20:08:36 - INFO - src.utils - epoch:9 step:2068 loss:1.3373390436172485
+2022/02/27 20:08:36 - INFO - src.utils - epoch:9 step:2070 loss:1.3450546264648438
+2022/02/27 20:08:36 - INFO - src.utils - epoch:9 step:2072 loss:1.3527631759643555
+2022/02/27 20:08:36 - INFO - src.utils - epoch:9 step:2074 loss:1.3300613164901733
+2022/02/27 20:08:37 - INFO - src.utils - epoch:9 step:2076 loss:1.36921226978302
+2022/02/27 20:08:37 - INFO - src.utils - epoch:9 step:2078 loss:1.3425551652908325
+2022/02/27 20:08:37 - INFO - src.utils - epoch:9 step:2080 loss:1.3318991661071777
+2022/02/27 20:08:37 - INFO - src.utils - epoch:9 step:2082 loss:1.3907444477081299
+2022/02/27 20:08:37 - INFO - src.utils - epoch:9 step:2084 loss:1.3472602367401123
+2022/02/27 20:08:37 - INFO - src.utils - epoch:9 step:2086 loss:1.3696266412734985
+2022/02/27 20:08:38 - INFO - src.utils - epoch:9 step:2088 loss:1.4102132320404053
+2022/02/27 20:08:38 - INFO - src.utils - epoch:9 step:2090 loss:1.4152024984359741
+2022/02/27 20:08:38 - INFO - src.utils - epoch:9 step:2092 loss:1.3370349407196045
+2022/02/27 20:08:38 - INFO - src.utils - epoch:9 step:2094 loss:1.416154384613037
+2022/02/27 20:08:38 - INFO - src.utils - epoch:9 step:2096 loss:1.3358029127120972
+2022/02/27 20:08:39 - INFO - src.utils - epoch:9 step:2098 loss:1.3711841106414795
+2022/02/27 20:08:39 - INFO - src.utils - epoch:9 step:2100 loss:1.3611336946487427
+2022/02/27 20:08:40 - INFO - src.utils - epoch:9 step:2100 acc:0.6158256880733946
+2022/02/27 20:08:40 - INFO - src.utils - epoch:9 step:2102 loss:1.381847620010376
+2022/02/27 20:08:40 - INFO - src.utils - epoch:9 step:2104 loss:1.3937747478485107
+2022/02/27 20:08:41 - INFO - src.utils - epoch:9 step:2106 loss:1.3596014976501465
+2022/02/27 20:08:41 - INFO - src.utils - epoch:9 step:2108 loss:1.3947087526321411
+2022/02/27 20:08:41 - INFO - src.utils - epoch:9 step:2110 loss:1.3614788055419922
+2022/02/27 20:08:41 - INFO - src.utils - epoch:9 step:2112 loss:1.3947980403900146
+2022/02/27 20:08:41 - INFO - src.utils - epoch:9 step:2114 loss:1.3340040445327759
+2022/02/27 20:08:41 - INFO - src.utils - epoch:9 step:2116 loss:1.3712786436080933
+2022/02/27 20:08:42 - INFO - src.utils - epoch:9 step:2118 loss:1.4306483268737793
+2022/02/27 20:08:42 - INFO - src.utils - epoch:9 step:2120 loss:1.390755534172058
+2022/02/27 20:08:42 - INFO - src.utils - epoch:9 step:2122 loss:1.3610941171646118
+2022/02/27 20:08:42 - INFO - src.utils - epoch:9 step:2124 loss:1.383190631866455
+2022/02/27 20:08:42 - INFO - src.utils - epoch:9 step:2126 loss:1.4015039205551147
+2022/02/27 20:08:43 - INFO - src.utils - epoch:9 step:2128 loss:1.380828857421875
+2022/02/27 20:08:43 - INFO - src.utils - epoch:9 step:2130 loss:1.313445806503296
+2022/02/27 20:08:43 - INFO - src.utils - epoch:9 step:2132 loss:1.344648838043213
+2022/02/27 20:08:43 - INFO - src.utils - epoch:9 step:2134 loss:1.3969120979309082
+2022/02/27 20:08:43 - INFO - src.utils - epoch:9 step:2136 loss:1.3974313735961914
+2022/02/27 20:08:43 - INFO - src.utils - epoch:9 step:2138 loss:1.363964319229126
+2022/02/27 20:08:44 - INFO - src.utils - epoch:9 step:2140 loss:1.3962700366973877
+2022/02/27 20:08:44 - INFO - src.utils - epoch:9 step:2142 loss:1.408955454826355
+2022/02/27 20:08:44 - INFO - src.utils - epoch:9 step:2144 loss:1.3820443153381348
+2022/02/27 20:08:44 - INFO - src.utils - epoch:9 step:2146 loss:1.4085731506347656
+2022/02/27 20:08:44 - INFO - src.utils - epoch:9 step:2148 loss:1.3518788814544678
+2022/02/27 20:08:44 - INFO - src.utils - epoch:9 step:2150 loss:1.3345868587493896
+2022/02/27 20:08:45 - INFO - src.utils - epoch:9 step:2152 loss:1.3952668905258179
+2022/02/27 20:08:45 - INFO - src.utils - epoch:9 step:2154 loss:1.3733197450637817
+2022/02/27 20:08:45 - INFO - src.utils - epoch:9 step:2156 loss:1.3329440355300903
+2022/02/27 20:08:45 - INFO - src.utils - epoch:9 step:2158 loss:1.3813451528549194
+2022/02/27 20:08:45 - INFO - src.utils - epoch:9 step:2160 loss:1.3523666858673096
+2022/02/27 20:08:46 - INFO - src.utils - epoch:9 step:2162 loss:1.3739256858825684
+2022/02/27 20:08:46 - INFO - src.utils - epoch:9 step:2164 loss:1.3482356071472168
+2022/02/27 20:08:46 - INFO - src.utils - epoch:9 step:2166 loss:1.3990998268127441
+2022/02/27 20:08:46 - INFO - src.utils - epoch:9 step:2168 loss:1.343235969543457
+2022/02/27 20:08:46 - INFO - src.utils - Best_acc:0.6158256880733946 Best_steps:200

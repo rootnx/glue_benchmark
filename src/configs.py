@@ -43,6 +43,10 @@ class TrainArguments:
         default='',
         metadata={"help": "Set the tag and find the result easier in the log."}
     )
+    log_dir: Optional[str] = field(
+        default="log/log.txt",
+        metadata={"help": "Path to save log file"}
+    )
     do_train: Optional[bool] = field(
         default=True,
     )
@@ -111,7 +115,15 @@ class SST2_Config_class:
     hidden_size: int = 768
 
 @dataclass
-class Arguments(TrainArguments,ModelArguments):
+class PromptArguments:
+    n_tokens: Optional[int] = field(
+        default=None,
+        metadata={"help":"the tokens used in prompt"}
+    )
+
+
+@dataclass
+class Arguments(TrainArguments,PromptArguments,ModelArguments):
     pass
 
 def get_parser():

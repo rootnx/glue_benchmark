@@ -12,10 +12,11 @@ source ~/.bashrc
 #!/bin/bash
 
 python run.py \
-    --task_name SST2 \
-    --tag basic_test \
-    --log_dir log/SST_log_basic_test \
-    --model_name_or_path BertForSST2 \
+    --task_name SST2_PT \
+    --tag basic_test_prompt \
+    --n_tokens 4 \
+    --log_dir log/SST_log_basic_test_prompt \
+    --model_name_or_path BertPromptTuningCLS \
     --pretrained_model_name bert-base-uncased \
     --do_train \
     --do_eval \
